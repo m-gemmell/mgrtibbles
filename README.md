@@ -1,5 +1,11 @@
 R tibbles containing various data curated by m-gemmell
 
+Install and load with:
+
+`# install.packages("remotes")`
+`remotes::install_github("m-gemmell/mgrtibbles")`
+`library(mgrtibbles)`
+
 Datastes include:
 
 crab_age_pred_tbl: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
