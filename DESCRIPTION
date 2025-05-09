@@ -1,11 +1,17 @@
 Package: mgrtibbles
-Title: What the Package Does (One Line, Title Case)
+Title: R tibbles containing various datasets
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+    person(given = "Matthew", 
+          family = "Gemmell", , 
+          role = c("aut", "cre"),
+          email = "matthewrgemmell@gmail.com")
+Description: Tibbles for examples in teaching/learning.
+License: GPL (>= 3)
 Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
+Depends: 
+    R (>= 3.5)
+LazyData: true
+Imports: 
+    tibble
