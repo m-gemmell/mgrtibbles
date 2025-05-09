@@ -7,7 +7,7 @@
 #' \describe{
 #'   \item{species}{fct Species of mammals}
 #'   \item{body_wt}{dbl Total body weight of the mammal (in kg))} 
-#'   \item{brain_wt}{dbl Brain weight of the mammal (in kg)}
+#'   \item{brain_wt}{dbl Brain weight of the mammal (in g)}
 #'   \item{non_dreaming}{dbl Number of hours of non dreaming sleep}
 #'   \item{dreaming}{dbl Number of hours of dreaming sleep}
 #'   \item{total_sleep}{dbl Total number of hours of sleep}
