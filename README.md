@@ -14,6 +14,8 @@ crab_age_pred_tbl: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
 
 mammal_sleep_tbl: https://www.kaggle.com/datasets/volkandl/sleep-in-mammals
 
+amphibian_div_tbl: https://www.kaggle.com/datasets/saurabhshahane/learning-the-wood-for-trees
+
 __Note:__ Page for mammal_sleep_tbl says the brain_wt is in kg when it is in grams. 
 The values in the included tibble have been converted to kgs.
 
