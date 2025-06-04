@@ -1,0 +1,18 @@
+#' Crop and Soil Dataset
+#'
+#' Crop and Soil Recommendation Dataset: A crop recommendation system helps farmers select the best crops to grow based on the specific properties of their soil. This system uses soil characteristics and environmental factors to determine the crops that are most likely to thrive. Recommendations are provided to improve crop yield, optimize resource use, and ensure sustainable farming practices.
+#'
+#' @format A tibble with 243 rows and 10 variables:
+#' \describe{
+#'   \item{Soil_type}{chr Categorizes soil based on texture and composition (e.g., clayey, black, or other), which affects water retention and nutrient availability.}
+#'   \item{Crop_type}{chr Specifies the type of crop being recommended or grown, categorized by the plant's purpose or growth pattern.}
+#'   \item{Fertiliser}{chr denoting monthly price for the 0-15/lb. size class}
+#'   \item{Temperature_celsius_kelvin}{chr Temperature in clesius and kelvin}
+#'   \item{Humidity}{dbl Humidity (Percentage)}
+#'   \item{Moisture}{dbl Moisture (Percentage)}
+#'   \item{Nitrogen}{dbl Nitrogen (mg/kg or percentage)}
+#'   \item{Potassium}{dbl Potassium (mg/kg or percentage)}
+#'   \item{Phosphorous}{dbl Phosphorus (mg/kg or percentage)}
+#' }
+#' @source \url{https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset}
+"crop_and_soil_tbl"

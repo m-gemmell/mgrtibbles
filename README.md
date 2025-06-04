@@ -20,6 +20,8 @@ fisheries_long_tbl: https://www.kaggle.com/datasets/sergegeukjian/fish-and-overf
 
 fisheries_wide_tbl: https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing?select=capture-fisheries-vs-aquaculture.csv
 
+crop_and_soil_tbl: https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset
+
 __Note:__ Page for mammal_sleep_tbl says the brain_wt is in kg when it is in grams. 
 The values in the included tibble have been converted to kgs.
 
