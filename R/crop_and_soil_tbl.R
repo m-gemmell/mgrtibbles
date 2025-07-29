@@ -7,7 +7,7 @@
 #'   \item{Soil_type}{chr Categorizes soil based on texture and composition (e.g., clayey, black, or other), which affects water retention and nutrient availability.}
 #'   \item{Crop_type}{chr Specifies the type of crop being recommended or grown, categorized by the plant's purpose or growth pattern.}
 #'   \item{Fertiliser}{chr denoting monthly price for the 0-15/lb. size class}
-#'   \item{Temperature_celsius_kelvin}{chr Temperature in clesius and kelvin}
+#'   \item{Temperature_celsius_kelvin}{chr Temperature in celsius and kelvin}
 #'   \item{Humidity}{dbl Humidity (Percentage)}
 #'   \item{Moisture}{dbl Moisture (Percentage)}
 #'   \item{Nitrogen}{dbl Nitrogen (mg/kg or percentage)}

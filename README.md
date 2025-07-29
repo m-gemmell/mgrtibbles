@@ -15,19 +15,19 @@ For example:
 
 Datasets include:
 
-crab_age_pred_tbl: https://www.kaggle.com/datasets/sidhus/crab-age-prediction
+crab_age_pred_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/crab_age_pred_tbl
 
-mammal_sleep_tbl: https://www.kaggle.com/datasets/volkandl/sleep-in-mammals
+mammal_sleep_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/mammal_sleep_tbl
 
-amphibian_div_tbl: https://www.kaggle.com/datasets/saurabhshahane/learning-the-wood-for-trees
+amphibian_div_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/amphibian_div_tbl
 
-fisheries_long_tbl: https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing?select=capture-fisheries-vs-aquaculture.csv
+fisheries_long_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/fisheries_long_tbl
 
-fisheries_wide_tbl: https://www.kaggle.com/datasets/sergegeukjian/fish-and-overfishing?select=capture-fisheries-vs-aquaculture.csv
+fisheries_wide_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/fisheries_wide_tbl
 
-crop_and_soil_tbl: https://www.kaggle.com/datasets/shankarpriya2913/crop-and-soil-dataset
+crop_and_soil_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/crop_and_soil_tbl
 
-bat_roost_tbl: https://www.bats.org.uk/our-work/national-bat-monitoring-programme/reports/nbmp-annual-report
+bat_roost_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/bat_roost_tbl
 
 __Note:__ Page for mammal_sleep_tbl says the brain_wt is in kg when it is in grams. 
 The values in the included tibble have been converted to kgs.

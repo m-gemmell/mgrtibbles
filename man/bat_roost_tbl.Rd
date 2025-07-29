@@ -11,7 +11,7 @@ A tibble with 3,054 rows and 6 variables:
   \item{RoostCode}{fct Unique Roost code} 
   \item{MaxCountInAnyYear}{dbl Max yearly bat population count of roost}
   \item{County}{chr Country roost is located in}
-  \item{Regio}{chr Region roost is located in}
+  \item{Region}{chr Region roost is located in}
   \item{Country}{chr Country roost is located in}
 }
 }
