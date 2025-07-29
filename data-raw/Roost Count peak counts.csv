@@ -1,0 +1,3055 @@
+Species,RoostCode,MaxCountInAnyYear,County,Region,Country
+Bat (species unknown),5100232,403,Devon,South West,England
+Bat (species unknown),5100523,383,Worcestershire,West Midlands,England
+Bat (species unknown),5101029,326,Cambridgeshire,East of England,England
+Bat (species unknown),5100785,303,Monmouthshire,Wales,Wales
+Bat (species unknown),1121272,285,Lincolnshire,East Midlands,England
+Bat (species unknown),5100692,270,Lancashire,North West,England
+Bat (species unknown),1121230,218,Worcestershire,West Midlands,England
+Bat (species unknown),5100113,202,Antrim,Northern Ireland,Northern Ireland
+Bat (species unknown),5100395,200,Channel Islands,Channel Islands,British Crown Dependencies
+Bat (species unknown),5100587,198,Oxfordshire,South East,England
+Bat (species unknown),5100835,177,Pembrokeshire,Wales,Wales
+Bat (species unknown),5100684,169,Monmouthshire,Wales,Wales
+Bat (species unknown),5100680,143,Kent,South East,England
+Bat (species unknown),5100718,130,Northamptonshire,East Midlands,England
+Bat (species unknown),3120129,104,Ceredigion,Wales,Wales
+Bat (species unknown),5100248,103,Northamptonshire,East Midlands,England
+Bat (species unknown),5100737,102,Cambridgeshire,East of England,England
+Bat (species unknown),5100666,97,East Sussex,South East,England
+Bat (species unknown),1121242,91,Suffolk,East of England,England
+Bat (species unknown),5100326,86,Shropshire,West Midlands,England
+Bat (species unknown),5100361,86,South Yorkshire,Yorkshire and The Humber,England
+Bat (species unknown),5100929,86,West Yorkshire,Yorkshire and The Humber,England
+Bat (species unknown),5100565,85,Suffolk,East of England,England
+Bat (species unknown),5100202,84,Swindon,South West,England
+Bat (species unknown),5100859,75,Wiltshire,South West,England
+Bat (species unknown),5100160,72,Staffordshire,West Midlands,England
+Bat (species unknown),5100693,70,Essex,East of England,England
+Bat (species unknown),5100676,68,Bath and North East Somerset,South West,England
+Bat (species unknown),5100699,68,Hampshire,South East,England
+Bat (species unknown),5100343,67,Norfolk,East of England,England
+Bat (species unknown),5100717,65,Staffordshire,West Midlands,England
+Bat (species unknown),5100399,65,The Vale of Glamorgan,Wales,Wales
+Bat (species unknown),5100426,61,Suffolk,East of England,England
+Bat (species unknown),5101103,60,Buckinghamshire,South East,England
+Bat (species unknown),1121276,58,Merseyside,North West,England
+Bat (species unknown),5101108,57,Nottinghamshire,East Midlands,England
+Bat (species unknown),5100655,56,Shropshire,West Midlands,England
+Bat (species unknown),5100132,54,Lincolnshire,East Midlands,England
+Bat (species unknown),5100764,51,Buckinghamshire,South East,England
+Bat (species unknown),1121215,49,Cheshire,North West,England
+Bat (species unknown),5100360,48,Herefordshire,West Midlands,England
+Bat (species unknown),5100679,47,Cheshire,North West,England
+Bat (species unknown),5100876,47,Isle of Wight,South East,England
+Bat (species unknown),5100103,43,Cornwall,South West,England
+Bat (species unknown),5100096,43,Worcestershire,West Midlands,England
+Bat (species unknown),5100985,42,Antrim,Northern Ireland,Northern Ireland
+Bat (species unknown),5100796,40,Highland,Scotland,Scotland
+Bat (species unknown),5100522,39,Scottish Borders,Scotland,Scotland
+Bat (species unknown),5100230,36,Gloucestershire,South West,England
+Bat (species unknown),5100936,29,Nottinghamshire,East Midlands,England
+Bat (species unknown),5100287,28,Devon,South West,England
+Bat (species unknown),5100662,26,Monmouthshire,Wales,Wales
+Bat (species unknown),5100342,23,Hertfordshire,East of England,England
+Bat (species unknown),5100329,22,Northamptonshire,East Midlands,England
+Bat (species unknown),5100789,22,Devon,South West,England
+Bat (species unknown),5100732,20,Aberdeen City,Scotland,Scotland
+Bat (species unknown),5100704,20,North Yorkshire,Yorkshire and The Humber,England
+Bat (species unknown),5100773,19,Kent,South East,England
+Bat (species unknown),5100373,19,Highland,Scotland,Scotland
+Bat (species unknown),5100950,19,Nottinghamshire,East Midlands,England
+Bat (species unknown),1120997,17,Isle of Wight,South East,England
+Bat (species unknown),5100708,15,Lincolnshire,East Midlands,England
+Bat (species unknown),5100325,8,Norfolk,East of England,England
+Bat (species unknown),5100720,7,Norfolk,East of England,England
+Bat (species unknown),5101026,7,Buckinghamshire,South East,England
+Bat (species unknown),5100478,6,Herefordshire,West Midlands,England
+Bat (species unknown),5101046,5,Gwynedd,Wales,Wales
+Bat (species unknown),5100036,5,West Berkshire,South East,England
+Bat (species unknown),5100931,4,Kent,South East,England
+Bat (species unknown),5100337,4,Kent,South East,England
+Bat (species unknown),5100912,3,Scottish Borders,Scotland,Scotland
+Bat (species unknown),5100538,2,Worcestershire,West Midlands,England
+Bat (species unknown),5100199,1,Dorset,South West,England
+Bat (species unknown),5100102,1,Pembrokeshire,Wales,Wales
+Bat (species unknown),5101045,1,West Midlands,West Midlands,England
+Bat (species unknown),5100414,1,Nottinghamshire,East Midlands,England
+Bat (species unknown),5100499,1,Nottinghamshire,East Midlands,England
+Bat (species unknown),5100855,1,Cambridgeshire,East of England,England
+Bat (species unknown),5101127,1,Surrey,South East,England
+Bechstein's bat,5100075,131,West Sussex,South East,England
+Brandt's bat,5100309,242,Cumbria,North West,England
+Brandt's bat,5100128,129,Lancashire,North West,England
+Brandt's bat,1060001,104,Cumbria,North West,England
+Brandt's bat,5101101,9,Derbyshire,East Midlands,England
+Brandt's bat,3060001,4,Ceredigion,Wales,Wales
+Brown long-eared bat,1150059,252,Derbyshire,East Midlands,England
+Brown long-eared bat,2150002,177,Highland,Scotland,Scotland
+Brown long-eared bat,1150094,165,Norfolk,East of England,England
+Brown long-eared bat,1150093,131,Cumbria,North West,England
+Brown long-eared bat,1150072,129,Cornwall,South West,England
+Brown long-eared bat,1150021,124,Rutland,East Midlands,England
+Brown long-eared bat,1150028,120,Hampshire,South East,England
+Brown long-eared bat,2150012,116,Argyll and Bute,Scotland,Scotland
+Brown long-eared bat,1150101,112,Derbyshire,East Midlands,England
+Brown long-eared bat,1150049,110,East Sussex,South East,England
+Brown long-eared bat,5100568,109,Northamptonshire,East Midlands,England
+Brown long-eared bat,5100580,108,Ceredigion,Wales,Wales
+Brown long-eared bat,1150037,107,Lancashire,North West,England
+Brown long-eared bat,5100409,106,Cheshire East,North West,England
+Brown long-eared bat,1150053,104,Redcar and Cleveland,North East,England
+Brown long-eared bat,1150085,104,Worcestershire,West Midlands,England
+Brown long-eared bat,2150016,101,Aberdeenshire,Scotland,Scotland
+Brown long-eared bat,1150116,100,Devon,South West,England
+Brown long-eared bat,2150037,97,Stirling,Scotland,Scotland
+Brown long-eared bat,2150023,95,Midlothian,Scotland,Scotland
+Brown long-eared bat,1150071,93,Oxfordshire,South East,England
+Brown long-eared bat,1150074,92,Suffolk,East of England,England
+Brown long-eared bat,1150058,91,Lancashire,North West,England
+Brown long-eared bat,1150133,89,Devon,South West,England
+Brown long-eared bat,1150055,88,Leicestershire,East Midlands,England
+Brown long-eared bat,1150034,84,Staffordshire,West Midlands,England
+Brown long-eared bat,5100074,83,Rhondda Cynon Taff,Wales,Wales
+Brown long-eared bat,1150044,82,Kent,South East,England
+Brown long-eared bat,1150067,80,Devon,South West,England
+Brown long-eared bat,2150008,80,Stirling,Scotland,Scotland
+Brown long-eared bat,5100154,79,Fife,Scotland,Scotland
+Brown long-eared bat,2150005,78,Renfrewshire,Scotland,Scotland
+Brown long-eared bat,2150011,78,Angus,Scotland,Scotland
+Brown long-eared bat,1150047,76,Devon,South West,England
+Brown long-eared bat,1150005,75,Kent,South East,England
+Brown long-eared bat,2150007,72,Scottish Borders,Scotland,Scotland
+Brown long-eared bat,1150084,72,Lincolnshire,East Midlands,England
+Brown long-eared bat,2150009,71,Highland,Scotland,Scotland
+Brown long-eared bat,1150068,71,Staffordshire,West Midlands,England
+Brown long-eared bat,5100532,71,Fermanagh,Northern Ireland,Northern Ireland
+Brown long-eared bat,1150128,69,Wiltshire,South West,England
+Brown long-eared bat,3150011,69,Caerphilly,Wales,Wales
+Brown long-eared bat,5100186,66,Nottinghamshire,East Midlands,England
+Brown long-eared bat,1150012,65,Merseyside,North West,England
+Brown long-eared bat,1150097,64,Hampshire,South East,England
+Brown long-eared bat,2150017,64,Highland,Scotland,Scotland
+Brown long-eared bat,2150026,64,Highland,Scotland,Scotland
+Brown long-eared bat,1150119,64,Cumbria,North West,England
+Brown long-eared bat,2150040,63,Highland,Scotland,Scotland
+Brown long-eared bat,5100491,62,Nottinghamshire,East Midlands,England
+Brown long-eared bat,1150087,62,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150125,62,Kent,South East,England
+Brown long-eared bat,1150102,62,Leicestershire,East Midlands,England
+Brown long-eared bat,3150012,61,Powys,Wales,Wales
+Brown long-eared bat,1150017,60,Devon,South West,England
+Brown long-eared bat,3150014,60,Powys,Wales,Wales
+Brown long-eared bat,1150065,59,Rutland,East Midlands,England
+Brown long-eared bat,1150106,59,Cheshire,North West,England
+Brown long-eared bat,1150086,57,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150088,56,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150078,56,Cornwall,South West,England
+Brown long-eared bat,1150024,56,Suffolk,East of England,England
+Brown long-eared bat,1150008,55,Kent,South East,England
+Brown long-eared bat,5100104,54,Suffolk,East of England,England
+Brown long-eared bat,1150035,53,Leicestershire,East Midlands,England
+Brown long-eared bat,1150075,53,Norfolk,East of England,England
+Brown long-eared bat,2120260,53,South Ayrshire,Scotland,Scotland
+Brown long-eared bat,2150010,53,Aberdeenshire,Scotland,Scotland
+Brown long-eared bat,1150114,52,Suffolk,East of England,England
+Brown long-eared bat,5100601,52,Fife,Scotland,Scotland
+Brown long-eared bat,5100595,50,Hertfordshire,East of England,England
+Brown long-eared bat,3150003,49,Ceredigion,Wales,Wales
+Brown long-eared bat,5100642,49,West Sussex,South East,England
+Brown long-eared bat,2150014,49,Argyll and Bute,Scotland,Scotland
+Brown long-eared bat,1150108,48,Devon,South West,England
+Brown long-eared bat,5100639,48,Isle of Man,Isle of Man,British Crown Dependencies
+Brown long-eared bat,1150001,48,Staffordshire,West Midlands,England
+Brown long-eared bat,5100020,47,Somerset,South West,England
+Brown long-eared bat,5100396,47,Suffolk,East of England,England
+Brown long-eared bat,5100602,47,Carmarthenshire,Wales,Wales
+Brown long-eared bat,2150042,47,Perth and Kinross,Scotland,Scotland
+Brown long-eared bat,1150069,47,East Riding of Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,1150048,47,West Berkshire,South East,England
+Brown long-eared bat,2150004,46,Renfrewshire,Scotland,Scotland
+Brown long-eared bat,1150113,44,Hampshire,South East,England
+Brown long-eared bat,5101039,44,Merseyside,North West,England
+Brown long-eared bat,1150080,44,Worcestershire,West Midlands,England
+Brown long-eared bat,1150073,43,Dorset,South West,England
+Brown long-eared bat,1150129,42,West Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,5100682,42,Lancashire,North West,England
+Brown long-eared bat,1150002,42,Wiltshire,South West,England
+Brown long-eared bat,3150007,39,Pembrokeshire,Wales,Wales
+Brown long-eared bat,5100150,39,Merseyside,North West,England
+Brown long-eared bat,2150039,39,South Ayrshire,Scotland,Scotland
+Brown long-eared bat,1150020,39,Hampshire,South East,England
+Brown long-eared bat,1150006,39,Cheshire,North West,England
+Brown long-eared bat,1150056,39,Nottinghamshire,East Midlands,England
+Brown long-eared bat,1150041,39,Hampshire,South East,England
+Brown long-eared bat,1150052,39,West Sussex,South East,England
+Brown long-eared bat,2150013,38,North Ayrshire,Scotland,Scotland
+Brown long-eared bat,5100165,38,Pembrokeshire,Wales,Wales
+Brown long-eared bat,5100881,37,Isle of Man,Isle of Man,British Crown Dependencies
+Brown long-eared bat,5101001,37,Cornwall,South West,England
+Brown long-eared bat,5101004,37,South Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,5101105,36,Isle of Man,Isle of Man,British Crown Dependencies
+Brown long-eared bat,1150063,36,Shropshire,West Midlands,England
+Brown long-eared bat,5100221,35,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150013,34,Wiltshire,South West,England
+Brown long-eared bat,2150006,33,South Lanarkshire,Scotland,Scotland
+Brown long-eared bat,3150010,33,Cardiff,Wales,Wales
+Brown long-eared bat,1150007,33,Isle of Wight,South East,England
+Brown long-eared bat,1150109,33,Northamptonshire,East Midlands,England
+Brown long-eared bat,1150018,33,Somerset,South West,England
+Brown long-eared bat,1150120,32,Somerset,South West,England
+Brown long-eared bat,5100888,31,Norfolk,East of England,England
+Brown long-eared bat,2150035,31,Glasgow City,Scotland,Scotland
+Brown long-eared bat,1150137,30,Devon,South West,England
+Brown long-eared bat,5100279,30,Cornwall,South West,England
+Brown long-eared bat,5100971,29,Perth and Kinross,Scotland,Scotland
+Brown long-eared bat,3150008,29,Ceredigion,Wales,Wales
+Brown long-eared bat,1150121,29,Surrey,South East,England
+Brown long-eared bat,5100425,28,Oxfordshire,South East,England
+Brown long-eared bat,5100788,28,Dorset,South West,England
+Brown long-eared bat,1150089,28,Isle of Wight,South East,England
+Brown long-eared bat,1150082,28,Leicestershire,East Midlands,England
+Brown long-eared bat,1150060,27,Herefordshire,West Midlands,England
+Brown long-eared bat,1150070,27,Gloucestershire,South West,England
+Brown long-eared bat,5101044,27,Cambridgeshire,East of England,England
+Brown long-eared bat,1150135,26,Kent,South East,England
+Brown long-eared bat,1150011,26,Kent,South East,England
+Brown long-eared bat,5100016,26,Worcestershire,West Midlands,England
+Brown long-eared bat,1150014,26,North Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,5100656,26,Northamptonshire,East Midlands,England
+Brown long-eared bat,1150095,26,Devon,South West,England
+Brown long-eared bat,1150022,26,Hampshire,South East,England
+Brown long-eared bat,2150032,25,Highland,Scotland,Scotland
+Brown long-eared bat,1150098,25,Kent,South East,England
+Brown long-eared bat,5100008,25,Argyll and Bute,Scotland,Scotland
+Brown long-eared bat,1150096,25,Devon,South West,England
+Brown long-eared bat,1150046,25,Shropshire,West Midlands,England
+Brown long-eared bat,5100158,24,Worcestershire,West Midlands,England
+Brown long-eared bat,2150018,24,Highland,Scotland,Scotland
+Brown long-eared bat,5100782,24,East Riding of Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,1150126,24,Lancashire,North West,England
+Brown long-eared bat,5100472,23,Hertfordshire,East of England,England
+Brown long-eared bat,1150016,23,Northamptonshire,East Midlands,England
+Brown long-eared bat,5100586,22,Derbyshire,East Midlands,England
+Brown long-eared bat,1150033,22,Northumberland,North East,England
+Brown long-eared bat,5100468,22,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,1150103,22,Herefordshire,West Midlands,England
+Brown long-eared bat,1150043,22,Surrey,South East,England
+Brown long-eared bat,1150112,22,Rutland,East Midlands,England
+Brown long-eared bat,1150090,22,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150117,21,Hartlepool,North East,England
+Brown long-eared bat,1150111,21,Warwickshire,West Midlands,England
+Brown long-eared bat,5101040,21,Merseyside,North West,England
+Brown long-eared bat,1150061,20,Greater London,London,England
+Brown long-eared bat,4150005,20,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,5100041,20,Devon,South West,England
+Brown long-eared bat,3150002,20,Powys,Wales,Wales
+Brown long-eared bat,5100371,20,Cornwall,South West,England
+Brown long-eared bat,1150081,19,Worcestershire,West Midlands,England
+Brown long-eared bat,1150127,19,North Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,1150032,19,Cornwall,South West,England
+Brown long-eared bat,1150115,19,Lancashire,North West,England
+Brown long-eared bat,2150038,19,East Lothian,Scotland,Scotland
+Brown long-eared bat,1150110,18,Hampshire,South East,England
+Brown long-eared bat,1150132,17,City of Bristol,South West,England
+Brown long-eared bat,5100222,17,Lincolnshire,East Midlands,England
+Brown long-eared bat,1150023,17,Rutland,East Midlands,England
+Brown long-eared bat,1150042,17,East Sussex,South East,England
+Brown long-eared bat,1150123,17,Dorset,South West,England
+Brown long-eared bat,1150131,16,West Midlands,West Midlands,England
+Brown long-eared bat,5101102,16,Dumfries and Galloway,Scotland,Scotland
+Brown long-eared bat,5100111,16,Dorset,South West,England
+Brown long-eared bat,5101077,16,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,1150079,16,Suffolk,East of England,England
+Brown long-eared bat,1150092,16,Essex,East of England,England
+Brown long-eared bat,1150130,15,West Midlands,West Midlands,England
+Brown long-eared bat,5100225,15,Lincolnshire,East Midlands,England
+Brown long-eared bat,5100973,15,Hampshire,South East,England
+Brown long-eared bat,5100623,14,Cumbria,North West,England
+Brown long-eared bat,5100641,14,Northamptonshire,East Midlands,England
+Brown long-eared bat,2150029,14,Highland,Scotland,Scotland
+Brown long-eared bat,4150001,14,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,3150005,14,Pembrokeshire,Wales,Wales
+Brown long-eared bat,3150004,14,Ceredigion,Wales,Wales
+Brown long-eared bat,1150134,14,Dorset,South West,England
+Brown long-eared bat,1150105,13,Dorset,South West,England
+Brown long-eared bat,5100571,12,Leicestershire,East Midlands,England
+Brown long-eared bat,1150122,12,Devon,South West,England
+Brown long-eared bat,3150001,12,Carmarthenshire,Wales,Wales
+Brown long-eared bat,5100261,12,Devon,South West,England
+Brown long-eared bat,5100484,11,Cheshire,North West,England
+Brown long-eared bat,1150027,10,Hampshire,South East,England
+Brown long-eared bat,1150031,9,Cumbria,North West,England
+Brown long-eared bat,1150040,9,Hampshire,South East,England
+Brown long-eared bat,1150010,9,Derbyshire,East Midlands,England
+Brown long-eared bat,1150038,8,Northumberland,North East,England
+Brown long-eared bat,1150100,8,Isle of Wight,South East,England
+Brown long-eared bat,2150024,8,Highland,Scotland,Scotland
+Brown long-eared bat,2150036,8,Stirling,Scotland,Scotland
+Brown long-eared bat,1150091,7,Leicestershire,East Midlands,England
+Brown long-eared bat,3150009,7,Ceredigion,Wales,Wales
+Brown long-eared bat,5100335,7,Northamptonshire,East Midlands,England
+Brown long-eared bat,1150003,7,Cheshire,North West,England
+Brown long-eared bat,1150025,6,Hertfordshire,East of England,England
+Brown long-eared bat,5100099,6,North Yorkshire,Yorkshire and The Humber,England
+Brown long-eared bat,5100485,6,Surrey,South East,England
+Brown long-eared bat,1150076,6,Shropshire,West Midlands,England
+Brown long-eared bat,2150028,6,Dumfries and Galloway,Scotland,Scotland
+Brown long-eared bat,5100509,6,Windsor and Maidenhead,South East,England
+Brown long-eared bat,1150099,6,Isle of Wight,South East,England
+Brown long-eared bat,5100473,5,East Sussex,South East,England
+Brown long-eared bat,5100661,5,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,1150039,5,Staffordshire,West Midlands,England
+Brown long-eared bat,5100228,5,Greater London,London,England
+Brown long-eared bat,5100005,5,Worcestershire,West Midlands,England
+Brown long-eared bat,1150057,5,Suffolk,East of England,England
+Brown long-eared bat,1150019,5,Essex,East of England,England
+Brown long-eared bat,2150031,5,Argyll and Bute,Scotland,Scotland
+Brown long-eared bat,1150026,4,Hampshire,South East,England
+Brown long-eared bat,5101003,4,Kent,South East,England
+Brown long-eared bat,2150041,4,Highland,Scotland,Scotland
+Brown long-eared bat,1150066,4,Milton Keynes,South East,England
+Brown long-eared bat,2150030,4,Dumfries and Galloway,Scotland,Scotland
+Brown long-eared bat,2150027,4,Aberdeenshire,Scotland,Scotland
+Brown long-eared bat,1150124,4,Devon,South West,England
+Brown long-eared bat,5100421,3,Somerset,South West,England
+Brown long-eared bat,2150015,3,Highland,Scotland,Scotland
+Brown long-eared bat,2150003,3,Dumfries and Galloway,Scotland,Scotland
+Brown long-eared bat,5100660,3,Down,Northern Ireland,Northern Ireland
+Brown long-eared bat,1150062,2,Greater London,London,England
+Brown long-eared bat,5100139,2,Somerset,South West,England
+Brown long-eared bat,2150020,2,Perth and Kinross,Scotland,Scotland
+Brown long-eared bat,1150015,2,Lancashire,North West,England
+Brown long-eared bat,1150054,2,Oxfordshire,South East,England
+Brown long-eared bat,5100997,2,Herefordshire,West Midlands,England
+Brown long-eared bat,1150064,2,Leicestershire,East Midlands,England
+Common pipistrelle,1120168,1259,Oxfordshire,South East,England
+Common pipistrelle,4120013,783,Antrim,Northern Ireland,Northern Ireland
+Common pipistrelle,1120530,584,Suffolk,East of England,England
+Common pipistrelle,2120233,562,Argyll and Bute,Scotland,Scotland
+Common pipistrelle,5100555,545,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,4120017,543,Down,Northern Ireland,Northern Ireland
+Common pipistrelle,1120568,521,Herefordshire,West Midlands,England
+Common pipistrelle,1120124,503,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100652,502,Dumfries and Galloway,Scotland,Scotland
+Common pipistrelle,2120046,483,Stirling,Scotland,Scotland
+Common pipistrelle,2120133,470,South Ayrshire,Scotland,Scotland
+Common pipistrelle,5100480,457,Northamptonshire,East Midlands,England
+Common pipistrelle,2120172,457,Stirling,Scotland,Scotland
+Common pipistrelle,1121053,450,Devon,South West,England
+Common pipistrelle,1120850,448,Worcestershire,West Midlands,England
+Common pipistrelle,3120100,438,Gwynedd,Wales,Wales
+Common pipistrelle,3120128,428,Gwynedd,Wales,Wales
+Common pipistrelle,3120022,427,Ceredigion,Wales,Wales
+Common pipistrelle,5100284,421,Conwy,Wales,Wales
+Common pipistrelle,1120887,411,Bedfordshire,East of England,England
+Common pipistrelle,1121014,402,West Berkshire,South East,England
+Common pipistrelle,1120729,392,Shropshire,West Midlands,England
+Common pipistrelle,1120418,385,County Durham,North East,England
+Common pipistrelle,2120029,372,Argyll and Bute,Scotland,Scotland
+Common pipistrelle,1120173,365,Shropshire,West Midlands,England
+Common pipistrelle,1121194,358,Devon,South West,England
+Common pipistrelle,3120107,351,Carmarthenshire,Wales,Wales
+Common pipistrelle,5100695,350,Kent,South East,England
+Common pipistrelle,1120199,349,Hampshire,South East,England
+Common pipistrelle,1120774,338,West Sussex,South East,England
+Common pipistrelle,1120381,336,Norfolk,East of England,England
+Common pipistrelle,5100357,335,Carmarthenshire,Wales,Wales
+Common pipistrelle,1121115,335,Derbyshire,East Midlands,England
+Common pipistrelle,5100389,335,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120821,321,Herefordshire,West Midlands,England
+Common pipistrelle,1120153,320,Devon,South West,England
+Common pipistrelle,1121119,317,Herefordshire,West Midlands,England
+Common pipistrelle,1120166,314,Lancashire,North West,England
+Common pipistrelle,1120509,311,Rutland,East Midlands,England
+Common pipistrelle,1120114,310,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120779,305,Somerset,South West,England
+Common pipistrelle,1120655,298,Lancashire,North West,England
+Common pipistrelle,2120265,290,Highland,Scotland,Scotland
+Common pipistrelle,1120604,289,Cornwall,South West,England
+Common pipistrelle,1120547,287,Isles of Scilly,South West,England
+Common pipistrelle,1120610,286,Cornwall,South West,England
+Common pipistrelle,1120211,285,Staffordshire,West Midlands,England
+Common pipistrelle,5100330,284,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120560,281,Hampshire,South East,England
+Common pipistrelle,1120636,275,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120916,272,Norfolk,East of England,England
+Common pipistrelle,2120264,265,East Ayrshire,Scotland,Scotland
+Common pipistrelle,1120664,262,Worcestershire,West Midlands,England
+Common pipistrelle,3120060,254,Monmouthshire,Wales,Wales
+Common pipistrelle,2120030,254,North Lanarkshire,Scotland,Scotland
+Common pipistrelle,1120712,252,Northamptonshire,East Midlands,England
+Common pipistrelle,2120098,252,Highland,Scotland,Scotland
+Common pipistrelle,1120677,251,Devon,South West,England
+Common pipistrelle,1120785,247,Hampshire,South East,England
+Common pipistrelle,2120091,246,Highland,Scotland,Scotland
+Common pipistrelle,2120224,244,Highland,Scotland,Scotland
+Common pipistrelle,1120898,243,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100295,243,Northumberland,North East,England
+Common pipistrelle,3120004,242,Ceredigion,Wales,Wales
+Common pipistrelle,1120294,242,East Sussex,South East,England
+Common pipistrelle,1120820,241,Surrey,South East,England
+Common pipistrelle,1120834,240,Hampshire,South East,England
+Common pipistrelle,1121008,239,Devon,South West,England
+Common pipistrelle,5100749,233,Suffolk,East of England,England
+Common pipistrelle,1120697,232,Bath and North East Somerset,South West,England
+Common pipistrelle,5100229,231,Lincolnshire,East Midlands,England
+Common pipistrelle,2120130,229,Highland,Scotland,Scotland
+Common pipistrelle,5100405,226,Dorset,South West,England
+Common pipistrelle,5100621,225,Highland,Scotland,Scotland
+Common pipistrelle,3120020,224,Neath Port Talbot,Wales,Wales
+Common pipistrelle,1120304,223,Northumberland,North East,England
+Common pipistrelle,5100726,219,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120088,219,Nottinghamshire,East Midlands,England
+Common pipistrelle,2120145,218,Highland,Scotland,Scotland
+Common pipistrelle,5100100,217,Highland,Scotland,Scotland
+Common pipistrelle,2120205,216,Highland,Scotland,Scotland
+Common pipistrelle,5100201,214,Lancashire,North West,England
+Common pipistrelle,5100298,213,Highland,Scotland,Scotland
+Common pipistrelle,5100619,210,Cheshire,North West,England
+Common pipistrelle,1120635,210,Northumberland,North East,England
+Common pipistrelle,1120233,210,Isle of Wight,South East,England
+Common pipistrelle,1121258,209,County Durham,North East,England
+Common pipistrelle,1120414,208,County Durham,North East,England
+Common pipistrelle,1120895,208,Derbyshire,East Midlands,England
+Common pipistrelle,1120554,206,Suffolk,East of England,England
+Common pipistrelle,5100242,205,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120135,205,Devon,South West,England
+Common pipistrelle,1120077,203,Merseyside,North West,England
+Common pipistrelle,1120865,202,Greater Manchester,North West,England
+Common pipistrelle,1121265,201,Somerset,South West,England
+Common pipistrelle,1120757,198,Kent,South East,England
+Common pipistrelle,1120720,198,Derbyshire,East Midlands,England
+Common pipistrelle,1120188,197,Cheshire,North West,England
+Common pipistrelle,1120754,196,Kent,South East,England
+Common pipistrelle,5100276,196,Essex,East of England,England
+Common pipistrelle,1120007,195,Cumbria,North West,England
+Common pipistrelle,2120128,195,Highland,Scotland,Scotland
+Common pipistrelle,2120176,193,Angus,Scotland,Scotland
+Common pipistrelle,1120706,187,Leicestershire,East Midlands,England
+Common pipistrelle,1120524,183,Hampshire,South East,England
+Common pipistrelle,1120808,181,Kent,South East,England
+Common pipistrelle,1120686,181,Kent,South East,England
+Common pipistrelle,5100369,180,Wiltshire,South West,England
+Common pipistrelle,1121031,179,Worcestershire,West Midlands,England
+Common pipistrelle,1121171,179,Stockton-on-Tees,North East,England
+Common pipistrelle,5100220,178,Cumbria,North West,England
+Common pipistrelle,1120673,178,Kent,South East,England
+Common pipistrelle,3120067,176,Powys,Wales,Wales
+Common pipistrelle,5100286,176,Somerset,South West,England
+Common pipistrelle,1121012,174,Dorset,South West,England
+Common pipistrelle,1121068,174,Hertfordshire,East of England,England
+Common pipistrelle,1120909,174,Isle of Wight,South East,England
+Common pipistrelle,1120386,173,Kent,South East,England
+Common pipistrelle,2120188,173,Argyll and Bute,Scotland,Scotland
+Common pipistrelle,1120888,172,Suffolk,East of England,England
+Common pipistrelle,1120807,171,County Durham,North East,England
+Common pipistrelle,5100268,171,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,2120048,170,Scottish Borders,Scotland,Scotland
+Common pipistrelle,1120563,170,Worcestershire,West Midlands,England
+Common pipistrelle,1120890,170,Herefordshire,West Midlands,England
+Common pipistrelle,3120121,168,Powys,Wales,Wales
+Common pipistrelle,5100636,168,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120559,166,West Sussex,South East,England
+Common pipistrelle,1120106,166,West Sussex,South East,England
+Common pipistrelle,5100146,165,Hampshire,South East,England
+Common pipistrelle,5100541,164,Derbyshire,East Midlands,England
+Common pipistrelle,5100024,162,Surrey,South East,England
+Common pipistrelle,1120488,162,Staffordshire,West Midlands,England
+Common pipistrelle,3120075,162,Monmouthshire,Wales,Wales
+Common pipistrelle,1120127,160,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100048,160,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100920,158,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120540,156,Northumberland,North East,England
+Common pipistrelle,5100501,156,Isles of Scilly,South West,England
+Common pipistrelle,2120118,156,Highland,Scotland,Scotland
+Common pipistrelle,2120110,155,Na H-Eileanan An Iar,Scotland,Scotland
+Common pipistrelle,1120370,153,Hertfordshire,East of England,England
+Common pipistrelle,1121244,153,Oxfordshire,South East,England
+Common pipistrelle,5100310,153,Highland,Scotland,Scotland
+Common pipistrelle,1120683,152,Hartlepool,North East,England
+Common pipistrelle,5100205,151,Somerset,South West,England
+Common pipistrelle,2120180,151,Highland,Scotland,Scotland
+Common pipistrelle,1120321,151,Leicestershire,East Midlands,England
+Common pipistrelle,1120762,151,Cumbria,North West,England
+Common pipistrelle,1120137,150,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100673,150,Cumbria,North West,England
+Common pipistrelle,1120432,150,Herefordshire,West Midlands,England
+Common pipistrelle,1121066,147,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120625,147,Greater Manchester,North West,England
+Common pipistrelle,1120848,147,Nottinghamshire,East Midlands,England
+Common pipistrelle,1120901,147,Isle of Wight,South East,England
+Common pipistrelle,1120833,146,Lincolnshire,East Midlands,England
+Common pipistrelle,5100724,146,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,2120074,145,South Lanarkshire,Scotland,Scotland
+Common pipistrelle,1120523,145,Lancashire,North West,England
+Common pipistrelle,1120773,144,Buckinghamshire,South East,England
+Common pipistrelle,1120663,144,Lancashire,North West,England
+Common pipistrelle,1120136,144,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120397,143,East Sussex,South East,England
+Common pipistrelle,2120041,143,Highland,Scotland,Scotland
+Common pipistrelle,1120460,143,Oxfordshire,South East,England
+Common pipistrelle,2120147,143,Argyll and Bute,Scotland,Scotland
+Common pipistrelle,5100518,141,Moray,Scotland,Scotland
+Common pipistrelle,1120264,140,Hampshire,South East,England
+Common pipistrelle,1120624,140,Devon,South West,England
+Common pipistrelle,1120361,140,Surrey,South East,England
+Common pipistrelle,1120020,138,Devon,South West,England
+Common pipistrelle,2120014,138,Highland,Scotland,Scotland
+Common pipistrelle,1120884,138,Lincolnshire,East Midlands,England
+Common pipistrelle,1120339,137,Cheshire,North West,England
+Common pipistrelle,1120420,137,County Durham,North East,England
+Common pipistrelle,1120771,136,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100390,136,Highland,Scotland,Scotland
+Common pipistrelle,1120499,136,Herefordshire,West Midlands,England
+Common pipistrelle,1120447,136,Northamptonshire,East Midlands,England
+Common pipistrelle,1120232,136,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120772,135,Norfolk,East of England,England
+Common pipistrelle,1120156,134,Northamptonshire,East Midlands,England
+Common pipistrelle,5100366,134,Cambridgeshire,East of England,England
+Common pipistrelle,1120617,134,Lancashire,North West,England
+Common pipistrelle,1120760,133,Rutland,East Midlands,England
+Common pipistrelle,1120222,133,Hampshire,South East,England
+Common pipistrelle,2120109,133,Highland,Scotland,Scotland
+Common pipistrelle,1120553,133,Hertfordshire,East of England,England
+Common pipistrelle,1121142,133,York,Yorkshire and The Humber,England
+Common pipistrelle,5100063,133,Suffolk,East of England,England
+Common pipistrelle,2120063,131,Highland,Scotland,Scotland
+Common pipistrelle,5100616,131,West Midlands,West Midlands,England
+Common pipistrelle,1120802,131,Hertfordshire,East of England,England
+Common pipistrelle,5100670,130,West Sussex,South East,England
+Common pipistrelle,1120830,130,Lancashire,North West,England
+Common pipistrelle,1120843,130,Cumbria,North West,England
+Common pipistrelle,1121030,130,Oxfordshire,South East,England
+Common pipistrelle,5101130,129,Channel Islands,Channel Islands,British Crown Dependencies
+Common pipistrelle,1121127,128,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100449,128,Cambridgeshire,East of England,England
+Common pipistrelle,1120484,128,Isle of Wight,South East,England
+Common pipistrelle,2120164,127,Highland,Scotland,Scotland
+Common pipistrelle,1120032,127,Essex,East of England,England
+Common pipistrelle,5100204,127,Highland,Scotland,Scotland
+Common pipistrelle,2120229,127,Dumfries and Galloway,Scotland,Scotland
+Common pipistrelle,3120010,126,Monmouthshire,Wales,Wales
+Common pipistrelle,5100470,126,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120752,126,Lincolnshire,East Midlands,England
+Common pipistrelle,1120421,126,County Durham,North East,England
+Common pipistrelle,1120858,126,Nottinghamshire,East Midlands,England
+Common pipistrelle,1121178,125,Leicestershire,East Midlands,England
+Common pipistrelle,2120219,125,Moray,Scotland,Scotland
+Common pipistrelle,1121269,125,Suffolk,East of England,England
+Common pipistrelle,1120562,125,Gloucestershire,South West,England
+Common pipistrelle,1120200,124,Lancashire,North West,England
+Common pipistrelle,1120140,124,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121135,124,County Durham,North East,England
+Common pipistrelle,5100198,124,Hampshire,South East,England
+Common pipistrelle,1120587,123,Derbyshire,East Midlands,England
+Common pipistrelle,1121281,123,Bedfordshire,East of England,England
+Common pipistrelle,1120580,123,Kent,South East,England
+Common pipistrelle,1120594,123,Cumbria,North West,England
+Common pipistrelle,1121188,123,Leicestershire,East Midlands,England
+Common pipistrelle,1120021,123,Devon,South West,England
+Common pipistrelle,1120750,122,Lincolnshire,East Midlands,England
+Common pipistrelle,5100922,122,Warwickshire,West Midlands,England
+Common pipistrelle,1120372,122,Hampshire,South East,England
+Common pipistrelle,5101071,121,Highland,Scotland,Scotland
+Common pipistrelle,1121216,121,Hertfordshire,East of England,England
+Common pipistrelle,1120817,121,Derbyshire,East Midlands,England
+Common pipistrelle,5100044,121,Isle of Wight,South East,England
+Common pipistrelle,1120623,121,Lancashire,North West,England
+Common pipistrelle,5100644,120,Lancashire,North West,England
+Common pipistrelle,5100534,120,Warwickshire,West Midlands,England
+Common pipistrelle,1121101,120,Kent,South East,England
+Common pipistrelle,4120015,120,Down,Northern Ireland,Northern Ireland
+Common pipistrelle,1120445,119,Merseyside,North West,England
+Common pipistrelle,1120016,119,Devon,South West,England
+Common pipistrelle,1120514,119,Leicestershire,East Midlands,England
+Common pipistrelle,5100362,118,Cornwall,South West,England
+Common pipistrelle,1120045,118,Hertfordshire,East of England,England
+Common pipistrelle,1120794,118,Somerset,South West,England
+Common pipistrelle,2120168,117,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,1121064,117,West Sussex,South East,England
+Common pipistrelle,5100240,116,Carmarthenshire,Wales,Wales
+Common pipistrelle,1120505,116,Herefordshire,West Midlands,England
+Common pipistrelle,1120678,116,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120676,116,Lincolnshire,East Midlands,England
+Common pipistrelle,1120693,116,Lancashire,North West,England
+Common pipistrelle,1120549,115,Staffordshire,West Midlands,England
+Common pipistrelle,1120187,115,Northamptonshire,East Midlands,England
+Common pipistrelle,1120788,114,Kent,South East,England
+Common pipistrelle,1120266,114,Lancashire,North West,England
+Common pipistrelle,5100493,114,Dorset,South West,England
+Common pipistrelle,1121059,114,Norfolk,East of England,England
+Common pipistrelle,1120578,113,Devon,South West,England
+Common pipistrelle,1120608,113,Kent,South East,England
+Common pipistrelle,5100388,113,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120150,113,Kent,South East,England
+Common pipistrelle,5100942,112,Hertfordshire,East of England,England
+Common pipistrelle,5100713,112,Lancashire,North West,England
+Common pipistrelle,1120129,112,Derbyshire,East Midlands,England
+Common pipistrelle,5100327,111,Buckinghamshire,South East,England
+Common pipistrelle,1120257,111,Warwickshire,West Midlands,England
+Common pipistrelle,3120114,110,Cardiff,Wales,Wales
+Common pipistrelle,1120782,110,Surrey,South East,England
+Common pipistrelle,1121256,109,Surrey,South East,England
+Common pipistrelle,1120518,109,Hampshire,South East,England
+Common pipistrelle,1120065,108,Kent,South East,England
+Common pipistrelle,5100486,107,Scottish Borders,Scotland,Scotland
+Common pipistrelle,5100630,107,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120556,107,Cumbria,North West,England
+Common pipistrelle,1120658,107,South Gloucestershire,South West,England
+Common pipistrelle,5100811,106,Somerset,South West,England
+Common pipistrelle,2120018,104,Highland,Scotland,Scotland
+Common pipistrelle,1120097,104,Suffolk,East of England,England
+Common pipistrelle,1120217,104,Cornwall,South West,England
+Common pipistrelle,1120169,103,Herefordshire,West Midlands,England
+Common pipistrelle,5101047,103,Powys,Wales,Wales
+Common pipistrelle,1120495,103,Greater London,London,England
+Common pipistrelle,1120622,101,Lancashire,North West,England
+Common pipistrelle,1120777,100,East Sussex,South East,England
+Common pipistrelle,1120272,100,Somerset,South West,England
+Common pipistrelle,5100313,100,North Lincolnshire,Yorkshire and The Humber,England
+Common pipistrelle,1120143,100,Leicestershire,East Midlands,England
+Common pipistrelle,1121266,100,Kent,South East,England
+Common pipistrelle,1120237,99,Greater Manchester,North West,England
+Common pipistrelle,5100035,99,Warwickshire,West Midlands,England
+Common pipistrelle,5101094,99,Carmarthenshire,Wales,Wales
+Common pipistrelle,1120054,99,Isle of Wight,South East,England
+Common pipistrelle,1121164,99,Lancashire,North West,England
+Common pipistrelle,1121168,99,Cheshire,North West,England
+Common pipistrelle,1120839,98,Warwickshire,West Midlands,England
+Common pipistrelle,1120831,98,Lincolnshire,East Midlands,England
+Common pipistrelle,1120921,98,Suffolk,East of England,England
+Common pipistrelle,1120511,98,Leicestershire,East Midlands,England
+Common pipistrelle,5100849,98,Kent,South East,England
+Common pipistrelle,1121023,98,Herefordshire,West Midlands,England
+Common pipistrelle,1121220,98,Lincolnshire,East Midlands,England
+Common pipistrelle,5100458,97,Kent,South East,England
+Common pipistrelle,1120246,97,Kent,South East,England
+Common pipistrelle,1120668,97,Herefordshire,West Midlands,England
+Common pipistrelle,1120591,97,Somerset,South West,England
+Common pipistrelle,1121192,97,Kent,South East,England
+Common pipistrelle,1120195,97,Somerset,South West,England
+Common pipistrelle,5100875,97,Tyne and Wear,North East,England
+Common pipistrelle,1120019,96,Devon,South West,England
+Common pipistrelle,5100890,96,Leicestershire,East Midlands,England
+Common pipistrelle,1120891,96,Gloucestershire,South West,England
+Common pipistrelle,5100886,96,Norfolk,East of England,England
+Common pipistrelle,1120583,96,East Sussex,South East,England
+Common pipistrelle,1120521,96,Staffordshire,West Midlands,England
+Common pipistrelle,5100979,96,Derbyshire,East Midlands,England
+Common pipistrelle,1121234,96,Lancashire,North West,England
+Common pipistrelle,2120052,95,Highland,Scotland,Scotland
+Common pipistrelle,1120684,95,West Berkshire,South East,England
+Common pipistrelle,1120395,95,West Sussex,South East,England
+Common pipistrelle,1121041,94,Greater Manchester,North West,England
+Common pipistrelle,1120029,94,Devon,South West,England
+Common pipistrelle,1120427,94,County Durham,North East,England
+Common pipistrelle,1121162,93,Cornwall,South West,England
+Common pipistrelle,1120493,93,Shropshire,West Midlands,England
+Common pipistrelle,3120120,93,Pembrokeshire,Wales,Wales
+Common pipistrelle,1120711,93,Staffordshire,West Midlands,England
+Common pipistrelle,1120429,92,Devon,South West,England
+Common pipistrelle,5100049,92,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100909,92,South Gloucestershire,South West,England
+Common pipistrelle,1120501,92,Staffordshire,West Midlands,England
+Common pipistrelle,5100725,92,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120832,92,Lincolnshire,East Midlands,England
+Common pipistrelle,1120041,92,Worcestershire,West Midlands,England
+Common pipistrelle,1121152,91,Suffolk,East of England,England
+Common pipistrelle,2120185,91,Highland,Scotland,Scotland
+Common pipistrelle,1120765,91,Gloucestershire,South West,England
+Common pipistrelle,2120206,91,Highland,Scotland,Scotland
+Common pipistrelle,1120527,91,Somerset,South West,England
+Common pipistrelle,5100017,91,South Lanarkshire,Scotland,Scotland
+Common pipistrelle,5100814,90,Greater Manchester,North West,England
+Common pipistrelle,1120983,90,Essex,East of England,England
+Common pipistrelle,1120111,90,West Midlands,West Midlands,England
+Common pipistrelle,1120320,90,Warwickshire,West Midlands,England
+Common pipistrelle,5100904,90,Isles of Scilly,South West,England
+Common pipistrelle,1120087,90,Nottinghamshire,East Midlands,England
+Common pipistrelle,2120179,90,Highland,Scotland,Scotland
+Common pipistrelle,1120189,89,Hertfordshire,East of England,England
+Common pipistrelle,1120498,89,Isles of Scilly,South West,England
+Common pipistrelle,1120047,89,Hertfordshire,East of England,England
+Common pipistrelle,3120091,89,Blaenau Gwent,Wales,Wales
+Common pipistrelle,1120165,89,Surrey,South East,England
+Common pipistrelle,2120115,88,Highland,Scotland,Scotland
+Common pipistrelle,2120190,88,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,1120826,88,Worcestershire,West Midlands,England
+Common pipistrelle,5100548,88,Stirling,Scotland,Scotland
+Common pipistrelle,1120245,88,Kent,South East,England
+Common pipistrelle,3120133,87,Denbighshire,Wales,Wales
+Common pipistrelle,1120284,87,Kent,South East,England
+Common pipistrelle,5100217,87,Dorset,South West,England
+Common pipistrelle,1120922,87,Suffolk,East of England,England
+Common pipistrelle,1120661,87,Kent,South East,England
+Common pipistrelle,5100218,86,Somerset,South West,England
+Common pipistrelle,1121205,86,Rutland,East Midlands,England
+Common pipistrelle,1121217,86,Somerset,South West,England
+Common pipistrelle,1120001,86,Somerset,South West,England
+Common pipistrelle,1120061,86,Kent,South East,England
+Common pipistrelle,1120314,85,Bedfordshire,East of England,England
+Common pipistrelle,5100110,85,Essex,East of England,England
+Common pipistrelle,1120702,85,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120618,85,Buckinghamshire,South East,England
+Common pipistrelle,2120013,85,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,5100818,85,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1121047,85,Isle of Wight,South East,England
+Common pipistrelle,1120379,85,Hertfordshire,East of England,England
+Common pipistrelle,1120229,84,West Midlands,West Midlands,England
+Common pipistrelle,2120066,84,Highland,Scotland,Scotland
+Common pipistrelle,1120390,83,Gloucestershire,South West,England
+Common pipistrelle,1120250,83,Kent,South East,England
+Common pipistrelle,1120798,82,Cornwall,South West,England
+Common pipistrelle,1120522,82,Staffordshire,West Midlands,England
+Common pipistrelle,1120167,82,Cumbria,North West,England
+Common pipistrelle,2120070,82,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,1120786,82,Derbyshire,East Midlands,England
+Common pipistrelle,5100226,82,Highland,Scotland,Scotland
+Common pipistrelle,1120185,81,West Sussex,South East,England
+Common pipistrelle,1121259,81,Lincolnshire,East Midlands,England
+Common pipistrelle,2120199,81,Perth and Kinross,Scotland,Scotland
+Common pipistrelle,5100479,81,Derbyshire,East Midlands,England
+Common pipistrelle,5100191,81,Herefordshire,West Midlands,England
+Common pipistrelle,2120064,80,Dumfries and Galloway,Scotland,Scotland
+Common pipistrelle,5100703,80,Greater London,London,England
+Common pipistrelle,1120613,80,Hampshire,South East,England
+Common pipistrelle,5100336,79,Isle of Wight,South East,England
+Common pipistrelle,2120142,79,Highland,Scotland,Scotland
+Common pipistrelle,3120079,79,Pembrokeshire,Wales,Wales
+Common pipistrelle,1120213,79,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120581,78,Essex,East of England,England
+Common pipistrelle,5100345,78,Lancashire,North West,England
+Common pipistrelle,1120234,78,Hampshire,South East,England
+Common pipistrelle,5100550,77,Devon,South West,England
+Common pipistrelle,1120815,77,City of Bristol,South West,England
+Common pipistrelle,5100164,77,Nottingham,East Midlands,England
+Common pipistrelle,5100382,77,Somerset,South West,England
+Common pipistrelle,2120089,77,Highland,Scotland,Scotland
+Common pipistrelle,5100947,76,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,1120695,76,Stockton-on-Tees,North East,England
+Common pipistrelle,1120896,76,Devon,South West,England
+Common pipistrelle,1120293,76,Somerset,South West,England
+Common pipistrelle,1120551,76,Kent,South East,England
+Common pipistrelle,5100614,76,Surrey,South East,England
+Common pipistrelle,5100451,76,Surrey,South East,England
+Common pipistrelle,1120650,76,Devon,South West,England
+Common pipistrelle,5100383,76,Wiltshire,South West,England
+Common pipistrelle,1120718,75,Devon,South West,England
+Common pipistrelle,1120355,75,Isle of Wight,South East,England
+Common pipistrelle,5100755,75,Worcestershire,West Midlands,England
+Common pipistrelle,5100664,75,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120400,74,East Sussex,South East,England
+Common pipistrelle,1121175,74,Hertfordshire,East of England,England
+Common pipistrelle,1121179,74,Oxfordshire,South East,England
+Common pipistrelle,1120138,74,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100105,73,Suffolk,East of England,England
+Common pipistrelle,1120769,73,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100763,73,Carmarthenshire,Wales,Wales
+Common pipistrelle,1120504,73,Herefordshire,West Midlands,England
+Common pipistrelle,1120115,73,South Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121126,73,Kent,South East,England
+Common pipistrelle,5100792,73,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121228,73,Redcar and Cleveland,North East,England
+Common pipistrelle,3120108,72,Carmarthenshire,Wales,Wales
+Common pipistrelle,5100059,72,Cheshire,North West,England
+Common pipistrelle,2120159,72,Highland,Scotland,Scotland
+Common pipistrelle,5101007,72,Hampshire,South East,England
+Common pipistrelle,5100612,72,Surrey,South East,England
+Common pipistrelle,1120022,72,Devon,South West,England
+Common pipistrelle,1120017,71,Devon,South West,England
+Common pipistrelle,1120018,71,Devon,South West,England
+Common pipistrelle,1120537,71,Cornwall,South West,England
+Common pipistrelle,1121185,71,Derbyshire,East Midlands,England
+Common pipistrelle,1121071,71,Wiltshire,South West,England
+Common pipistrelle,1120611,71,Hampshire,South East,England
+Common pipistrelle,2120228,71,Dumfries and Galloway,Scotland,Scotland
+Common pipistrelle,1120739,70,Leicestershire,East Midlands,England
+Common pipistrelle,1120496,70,Devon,South West,England
+Common pipistrelle,2120230,70,Falkirk,Scotland,Scotland
+Common pipistrelle,3120040,70,Ceredigion,Wales,Wales
+Common pipistrelle,1120062,70,Kent,South East,England
+Common pipistrelle,5100513,68,Gloucestershire,South West,England
+Common pipistrelle,1120621,68,Staffordshire,West Midlands,England
+Common pipistrelle,5100702,68,West Midlands,West Midlands,England
+Common pipistrelle,5100906,68,Norfolk,East of England,England
+Common pipistrelle,5100907,68,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120804,68,York,Yorkshire and The Humber,England
+Common pipistrelle,1120824,68,Lancashire,North West,England
+Common pipistrelle,1121009,68,Wiltshire,South West,England
+Common pipistrelle,1120449,67,Devon,South West,England
+Common pipistrelle,5100940,67,Nottinghamshire,East Midlands,England
+Common pipistrelle,1120249,67,Kent,South East,England
+Common pipistrelle,1120243,67,West Berkshire,South East,England
+Common pipistrelle,1121132,67,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120247,66,Kent,South East,England
+Common pipistrelle,5100817,66,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100115,66,Highland,Scotland,Scotland
+Common pipistrelle,3120074,66,Neath Port Talbot,Wales,Wales
+Common pipistrelle,1120688,66,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121113,66,Rutland,East Midlands,England
+Common pipistrelle,5100747,65,Nottinghamshire,East Midlands,England
+Common pipistrelle,5100617,65,Scottish Borders,Scotland,Scotland
+Common pipistrelle,1090052,65,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100937,64,Nottinghamshire,East Midlands,England
+Common pipistrelle,1120812,64,Nottinghamshire,East Midlands,England
+Common pipistrelle,5100120,64,Lancashire,North West,England
+Common pipistrelle,2120196,63,Dumfries and Galloway,Scotland,Scotland
+Common pipistrelle,1120092,63,Somerset,South West,England
+Common pipistrelle,1121275,63,Oxfordshire,South East,England
+Common pipistrelle,5101135,62,Channel Islands,Channel Islands,British Crown Dependencies
+Common pipistrelle,5100567,62,Oxfordshire,South East,England
+Common pipistrelle,1120079,61,Norfolk,East of England,England
+Common pipistrelle,1121274,61,North Lincolnshire,Yorkshire and The Humber,England
+Common pipistrelle,5100129,61,Cheshire,North West,England
+Common pipistrelle,1120027,60,Devon,South West,England
+Common pipistrelle,1120632,60,Buckinghamshire,South East,England
+Common pipistrelle,1120642,60,East Sussex,South East,England
+Common pipistrelle,5100402,60,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,2120139,60,Highland,Scotland,Scotland
+Common pipistrelle,1120183,60,Derbyshire,East Midlands,England
+Common pipistrelle,1120155,59,Isle of Wight,South East,England
+Common pipistrelle,5100438,59,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100437,59,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121172,59,Cornwall,South West,England
+Common pipistrelle,1120329,59,Herefordshire,West Midlands,England
+Common pipistrelle,5100116,59,Lincolnshire,East Midlands,England
+Common pipistrelle,5100825,59,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100784,58,Greater London,London,England
+Common pipistrelle,1121148,58,Tyne and Wear,North East,England
+Common pipistrelle,1120049,58,Isle of Wight,South East,England
+Common pipistrelle,5100816,58,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120510,57,Leicestershire,East Midlands,England
+Common pipistrelle,1121139,57,Northamptonshire,East Midlands,England
+Common pipistrelle,5100081,56,Wiltshire,South West,England
+Common pipistrelle,5100181,56,Derbyshire,East Midlands,England
+Common pipistrelle,1120767,56,Wiltshire,South West,England
+Common pipistrelle,1121070,56,Suffolk,East of England,England
+Common pipistrelle,2120035,56,Perth and Kinross,Scotland,Scotland
+Common pipistrelle,2120138,56,Falkirk,Scotland,Scotland
+Common pipistrelle,1120666,56,Worcestershire,West Midlands,England
+Common pipistrelle,5100210,56,Nottinghamshire,East Midlands,England
+Common pipistrelle,2120087,56,Highland,Scotland,Scotland
+Common pipistrelle,1120182,55,Northamptonshire,East Midlands,England
+Common pipistrelle,1121267,55,Lincolnshire,East Midlands,England
+Common pipistrelle,5100258,55,Lancashire,North West,England
+Common pipistrelle,5100080,55,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100334,54,Kent,South East,England
+Common pipistrelle,2120062,54,Scottish Borders,Scotland,Scotland
+Common pipistrelle,1120006,54,Cornwall,South West,England
+Common pipistrelle,1121083,54,Kent,South East,England
+Common pipistrelle,1121207,54,Cheshire,North West,England
+Common pipistrelle,1120181,53,West Sussex,South East,England
+Common pipistrelle,5100025,53,Cambridgeshire,East of England,England
+Common pipistrelle,1120363,53,Buckinghamshire,South East,England
+Common pipistrelle,1120810,53,Cornwall,South West,England
+Common pipistrelle,1121197,52,Lincolnshire,East Midlands,England
+Common pipistrelle,2120056,52,Highland,Scotland,Scotland
+Common pipistrelle,1120139,52,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121158,52,Oxfordshire,South East,England
+Common pipistrelle,5100903,52,Isles of Scilly,South West,England
+Common pipistrelle,1121159,52,Leicestershire,East Midlands,England
+Common pipistrelle,1120470,51,Bedfordshire,East of England,England
+Common pipistrelle,1120119,51,Kent,South East,England
+Common pipistrelle,5100135,51,Isle of Anglesey,Wales,Wales
+Common pipistrelle,5101136,51,Channel Islands,Channel Islands,British Crown Dependencies
+Common pipistrelle,5101080,51,Highland,Scotland,Scotland
+Common pipistrelle,1120201,51,Cornwall,South West,England
+Common pipistrelle,1120841,50,Worcestershire,West Midlands,England
+Common pipistrelle,1120647,50,Wiltshire,South West,England
+Common pipistrelle,2120038,50,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,5101072,50,Hampshire,South East,England
+Common pipistrelle,1120248,49,Kent,South East,England
+Common pipistrelle,1120082,49,Northamptonshire,East Midlands,England
+Common pipistrelle,1121223,49,Gloucestershire,South West,England
+Common pipistrelle,5100734,48,Northumberland,North East,England
+Common pipistrelle,5100629,48,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100727,48,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,3120052,48,Powys,Wales,Wales
+Common pipistrelle,1120797,48,Somerset,South West,England
+Common pipistrelle,5100097,47,Cardiff,Wales,Wales
+Common pipistrelle,1121028,47,Essex,East of England,England
+Common pipistrelle,2120178,47,Scottish Borders,Scotland,Scotland
+Common pipistrelle,1120331,47,Kent,South East,England
+Common pipistrelle,1120653,47,Warwickshire,West Midlands,England
+Common pipistrelle,1120064,47,Kent,South East,England
+Common pipistrelle,1120727,46,Bedfordshire,East of England,England
+Common pipistrelle,2120255,46,South Ayrshire,Scotland,Scotland
+Common pipistrelle,1120327,46,Norfolk,East of England,England
+Common pipistrelle,1121208,45,Worcestershire,West Midlands,England
+Common pipistrelle,1120175,45,Northamptonshire,East Midlands,England
+Common pipistrelle,1120220,44,Kent,South East,England
+Common pipistrelle,1120823,44,Herefordshire,West Midlands,England
+Common pipistrelle,5100422,44,Cornwall,South West,England
+Common pipistrelle,2120137,43,Falkirk,Scotland,Scotland
+Common pipistrelle,5100689,43,Staffordshire,West Midlands,England
+Common pipistrelle,1120533,43,Essex,East of England,England
+Common pipistrelle,1120046,42,Hertfordshire,East of England,England
+Common pipistrelle,5100794,42,Greater Manchester,North West,England
+Common pipistrelle,5100040,42,Scottish Borders,Scotland,Scotland
+Common pipistrelle,1120014,42,Derbyshire,East Midlands,England
+Common pipistrelle,2120262,41,Highland,Scotland,Scotland
+Common pipistrelle,5100914,41,Northamptonshire,East Midlands,England
+Common pipistrelle,2120197,41,Scottish Borders,Scotland,Scotland
+Common pipistrelle,2120170,41,Argyll and Bute,Scotland,Scotland
+Common pipistrelle,1120646,41,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121186,41,South Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120197,39,Cumbria,North West,England
+Common pipistrelle,5100015,38,Dorset,South West,England
+Common pipistrelle,1121191,38,Herefordshire,West Midlands,England
+Common pipistrelle,5100061,38,South Ayrshire,Scotland,Scotland
+Common pipistrelle,1121166,37,Devon,South West,England
+Common pipistrelle,5100519,37,Surrey,South East,England
+Common pipistrelle,1121112,36,Leicestershire,East Midlands,England
+Common pipistrelle,1120660,36,Norfolk,East of England,England
+Common pipistrelle,5100970,36,Derbyshire,East Midlands,England
+Common pipistrelle,1120827,36,Northamptonshire,East Midlands,England
+Common pipistrelle,5100083,34,Cornwall,South West,England
+Common pipistrelle,1120816,34,Lincolnshire,East Midlands,England
+Common pipistrelle,1120375,34,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100776,34,Suffolk,East of England,England
+Common pipistrelle,2120177,34,Highland,Scotland,Scotland
+Common pipistrelle,3120111,34,Carmarthenshire,Wales,Wales
+Common pipistrelle,1120545,34,Milton Keynes,South East,England
+Common pipistrelle,1120557,33,Bedfordshire,East of England,England
+Common pipistrelle,2120132,33,Scottish Borders,Scotland,Scotland
+Common pipistrelle,3120063,33,Powys,Wales,Wales
+Common pipistrelle,1120886,33,Lincolnshire,East Midlands,England
+Common pipistrelle,5101131,32,Channel Islands,Channel Islands,British Crown Dependencies
+Common pipistrelle,1120216,32,Essex,East of England,England
+Common pipistrelle,1120312,31,Lancashire,North West,England
+Common pipistrelle,4120035,31,Omagh,Northern Ireland,Northern Ireland
+Common pipistrelle,1120952,31,Kent,South East,England
+Common pipistrelle,5100681,31,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100540,31,Leicestershire,East Midlands,England
+Common pipistrelle,2120068,30,Highland,Scotland,Scotland
+Common pipistrelle,2120094,30,Highland,Scotland,Scotland
+Common pipistrelle,1120500,30,Staffordshire,West Midlands,England
+Common pipistrelle,5100453,29,West Berkshire,South East,England
+Common pipistrelle,1121222,29,Norfolk,East of England,England
+Common pipistrelle,1121161,28,County Durham,North East,England
+Common pipistrelle,5100551,28,Herefordshire,West Midlands,England
+Common pipistrelle,1121232,27,County Durham,North East,England
+Common pipistrelle,1120552,27,Kent,South East,England
+Common pipistrelle,1121024,26,East Sussex,South East,England
+Common pipistrelle,5100021,26,Perth and Kinross,Scotland,Scotland
+Common pipistrelle,1120042,26,Herefordshire,West Midlands,England
+Common pipistrelle,5100633,26,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100691,26,Surrey,South East,England
+Common pipistrelle,3120001,26,Denbighshire,Wales,Wales
+Common pipistrelle,1120590,26,Bath and North East Somerset,South West,England
+Common pipistrelle,2120244,25,Midlothian,Scotland,Scotland
+Common pipistrelle,5100125,25,Cornwall,South West,England
+Common pipistrelle,5100721,24,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120764,24,Surrey,South East,England
+Common pipistrelle,5100795,24,Lincolnshire,East Midlands,England
+Common pipistrelle,1121190,24,Cumbria,North West,England
+Common pipistrelle,1120121,24,Surrey,South East,England
+Common pipistrelle,1121221,23,Devon,South West,England
+Common pipistrelle,2120140,22,Highland,Scotland,Scotland
+Common pipistrelle,1120694,22,Wiltshire,South West,England
+Common pipistrelle,3120070,22,Monmouthshire,Wales,Wales
+Common pipistrelle,5100031,21,Swansea,Wales,Wales
+Common pipistrelle,1121226,21,Devon,South West,England
+Common pipistrelle,5101087,20,Dorset,South West,England
+Common pipistrelle,5100898,20,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121107,19,Lancashire,North West,England
+Common pipistrelle,1120333,19,Oxfordshire,South East,England
+Common pipistrelle,1121235,19,Lancashire,North West,England
+Common pipistrelle,1120410,19,Essex,East of England,England
+Common pipistrelle,1120840,18,Hampshire,South East,England
+Common pipistrelle,1120406,18,South Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100815,18,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100750,18,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100510,18,Greater London,London,England
+Common pipistrelle,5100432,18,North Lincolnshire,Yorkshire and The Humber,England
+Common pipistrelle,5100477,18,Lincolnshire,East Midlands,England
+Common pipistrelle,5100728,18,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,1120152,17,Wiltshire,South West,England
+Common pipistrelle,1120763,17,Shropshire,West Midlands,England
+Common pipistrelle,1120675,17,West Sussex,South East,England
+Common pipistrelle,2120210,17,Highland,Scotland,Scotland
+Common pipistrelle,5100418,17,Cumbria,North West,England
+Common pipistrelle,1120451,16,Somerset,South West,England
+Common pipistrelle,5100370,16,Cornwall,South West,England
+Common pipistrelle,1121233,16,Derbyshire,East Midlands,England
+Common pipistrelle,3120019,15,Denbighshire,Wales,Wales
+Common pipistrelle,1120385,15,Essex,East of England,England
+Common pipistrelle,5100857,15,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120039,15,Greater Manchester,North West,England
+Common pipistrelle,5100014,15,County Durham,North East,England
+Common pipistrelle,5100949,14,Bath and North East Somerset,South West,England
+Common pipistrelle,5100489,14,Devon,South West,England
+Common pipistrelle,1120600,14,Cumbria,North West,England
+Common pipistrelle,2120157,14,Fife,Scotland,Scotland
+Common pipistrelle,5100106,14,North Lincolnshire,Yorkshire and The Humber,England
+Common pipistrelle,1120407,14,West Sussex,South East,England
+Common pipistrelle,1120291,14,Herefordshire,West Midlands,England
+Common pipistrelle,5100108,13,Kent,South East,England
+Common pipistrelle,5100006,13,Worcestershire,West Midlands,England
+Common pipistrelle,1120584,13,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,2120217,12,Perth and Kinross,Scotland,Scotland
+Common pipistrelle,3120104,12,Caerphilly,Wales,Wales
+Common pipistrelle,5100722,12,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,3120006,12,Powys,Wales,Wales
+Common pipistrelle,5100159,12,Herefordshire,West Midlands,England
+Common pipistrelle,1120516,11,Devon,South West,England
+Common pipistrelle,1121143,11,Lancashire,North West,England
+Common pipistrelle,5100741,11,Surrey,South East,England
+Common pipistrelle,3120132,10,Powys,Wales,Wales
+Common pipistrelle,1120443,10,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100562,9,Cumbria,North West,England
+Common pipistrelle,1120103,9,West Sussex,South East,England
+Common pipistrelle,5100469,9,Kent,South East,England
+Common pipistrelle,1120376,8,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120753,8,Devon,South West,England
+Common pipistrelle,1120681,8,Norfolk,East of England,England
+Common pipistrelle,5100844,8,Tyne and Wear,North East,England
+Common pipistrelle,2120144,8,Highland,Scotland,Scotland
+Common pipistrelle,5100962,7,Derbyshire,East Midlands,England
+Common pipistrelle,5100999,7,Powys,Wales,Wales
+Common pipistrelle,1121268,7,North Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120454,7,Bedfordshire,East of England,England
+Common pipistrelle,1121098,7,West Sussex,South East,England
+Common pipistrelle,1120667,7,Herefordshire,West Midlands,England
+Common pipistrelle,1121032,6,Cambridgeshire,East of England,England
+Common pipistrelle,1120512,6,Devon,South West,England
+Common pipistrelle,5100705,6,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1121060,6,Isles of Scilly,South West,England
+Common pipistrelle,1120780,6,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120576,6,West Berkshire,South East,England
+Common pipistrelle,3120072,6,Powys,Wales,Wales
+Common pipistrelle,1120605,6,East Riding of Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5100615,6,Powys,Wales,Wales
+Common pipistrelle,3120009,5,Blaenau Gwent,Wales,Wales
+Common pipistrelle,5100374,5,Greater London,London,England
+Common pipistrelle,5100114,5,North Lincolnshire,Yorkshire and The Humber,England
+Common pipistrelle,5100767,5,Aberdeenshire,Scotland,Scotland
+Common pipistrelle,3120112,5,Rhondda Cynon Taff,Wales,Wales
+Common pipistrelle,1120628,4,Herefordshire,West Midlands,England
+Common pipistrelle,1120242,4,Greater London,London,England
+Common pipistrelle,1121079,4,Herefordshire,West Midlands,England
+Common pipistrelle,3120123,4,Swansea,Wales,Wales
+Common pipistrelle,1121227,4,Nottinghamshire,East Midlands,England
+Common pipistrelle,1121038,4,Worcestershire,West Midlands,England
+Common pipistrelle,5100039,3,Lancashire,North West,England
+Common pipistrelle,1120198,3,Cumbria,North West,England
+Common pipistrelle,5100598,3,Down,Northern Ireland,Northern Ireland
+Common pipistrelle,1120795,3,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,1120735,3,Cheshire,North West,England
+Common pipistrelle,1120801,3,West Yorkshire,Yorkshire and The Humber,England
+Common pipistrelle,5101110,2,Windsor and Maidenhead,South East,England
+Common pipistrelle,3120125,2,Monmouthshire,Wales,Wales
+Common pipistrelle,1120852,2,Suffolk,East of England,England
+Common pipistrelle,1120230,2,Leicestershire,East Midlands,England
+Common pipistrelle,3120039,2,The Vale of Glamorgan,Wales,Wales
+Common pipistrelle,2120242,2,Orkney Islands,Scotland,Scotland
+Common pipistrelle,5100235,2,Devon,South West,England
+Common pipistrelle,3120071,2,Rhondda Cynon Taff,Wales,Wales
+Common pipistrelle,5100742,2,Surrey,South East,England
+Common pipistrelle,5100471,2,Hertfordshire,East of England,England
+Common pipistrelle,1120644,2,Worcestershire,West Midlands,England
+Common pipistrelle,5100502,2,Isles of Scilly,South West,England
+Common pipistrelle,1120722,1,Cumbria,North West,England
+Common pipistrelle,1120674,1,Surrey,South East,England
+Common pipistrelle,5100842,1,Somerset,South West,England
+Common pipistrelle,5100385,1,Surrey,South East,England
+Common pipistrelle,5100822,1,Isle of Man,Isle of Man,British Crown Dependencies
+Common pipistrelle,5100490,1,Greater London,London,England
+Daubenton's bat,5100034,369,East Sussex,South East,England
+Daubenton's bat,1070005,360,Derbyshire,East Midlands,England
+Daubenton's bat,1070008,304,South Yorkshire,Yorkshire and The Humber,England
+Daubenton's bat,1070004,175,Lincolnshire,East Midlands,England
+Daubenton's bat,1070014,144,Warwickshire,West Midlands,England
+Daubenton's bat,1070002,119,Lincolnshire,East Midlands,England
+Daubenton's bat,1070001,92,Devon,South West,England
+Daubenton's bat,5100834,87,Cumbria,North West,England
+Daubenton's bat,5100891,72,Leicestershire,East Midlands,England
+Daubenton's bat,1070013,72,Cornwall,South West,England
+Daubenton's bat,5100303,66,North Lincolnshire,Yorkshire and The Humber,England
+Daubenton's bat,1070011,56,Cornwall,South West,England
+Daubenton's bat,2070001,55,Renfrewshire,Scotland,Scotland
+Daubenton's bat,1070009,55,East Riding of Yorkshire,Yorkshire and The Humber,England
+Daubenton's bat,1070006,51,Leicestershire,East Midlands,England
+Daubenton's bat,1070003,46,Derbyshire,East Midlands,England
+Daubenton's bat,1070007,16,South Yorkshire,Yorkshire and The Humber,England
+Daubenton's bat,5100475,12,Shropshire,West Midlands,England
+Daubenton's bat,5100987,6,Greater London,London,England
+Daubenton's bat,1070012,5,Devon,South West,England
+Greater horseshoe bat,1160011,2466,Devon,South West,England
+Greater horseshoe bat,3160004,1152,Pembrokeshire,Wales,Wales
+Greater horseshoe bat,3160002,950,Pembrokeshire,Wales,Wales
+Greater horseshoe bat,1160012,891,Devon,South West,England
+Greater horseshoe bat,1160013,742,Somerset,South West,England
+Greater horseshoe bat,5100901,692,Cornwall,South West,England
+Greater horseshoe bat,1160007,674,Gloucestershire,South West,England
+Greater horseshoe bat,1160010,660,Dorset,South West,England
+Greater horseshoe bat,3160005,595,Pembrokeshire,Wales,Wales
+Greater horseshoe bat,1160005,573,Cornwall,South West,England
+Greater horseshoe bat,1160008,527,Devon,South West,England
+Greater horseshoe bat,1160015,509,Devon,South West,England
+Greater horseshoe bat,1160016,428,Wiltshire,South West,England
+Greater horseshoe bat,1160019,379,Cornwall,South West,England
+Greater horseshoe bat,1160017,367,Devon,South West,England
+Greater horseshoe bat,3160003,330,Monmouthshire,Wales,Wales
+Greater horseshoe bat,5100255,280,Somerset,South West,England
+Greater horseshoe bat,1160020,261,Devon,South West,England
+Greater horseshoe bat,1160009,255,Dorset,South West,England
+Greater horseshoe bat,3160001,207,Caerphilly,Wales,Wales
+Greater horseshoe bat,1160003,204,Gloucestershire,South West,England
+Greater horseshoe bat,5100435,166,Cornwall,South West,England
+Greater horseshoe bat,1160014,154,Somerset,South West,England
+Greater horseshoe bat,5100152,150,Bath and North East Somerset,South West,England
+Greater horseshoe bat,1160002,150,Wiltshire,South West,England
+Greater horseshoe bat,5100263,146,Somerset,South West,England
+Greater horseshoe bat,5100549,137,Cornwall,South West,England
+Greater horseshoe bat,1160018,130,Devon,South West,England
+Greater horseshoe bat,1160004,125,Bath and North East Somerset,South West,England
+Greater horseshoe bat,1160021,115,Somerset,South West,England
+Greater horseshoe bat,1160006,115,Devon,South West,England
+Greater horseshoe bat,5100256,100,Somerset,South West,England
+Greater horseshoe bat,5100454,73,Somerset,South West,England
+Greater horseshoe bat,5101095,19,Cornwall,South West,England
+Greater horseshoe bat,5100805,16,Wiltshire,South West,England
+Greater horseshoe bat,1160001,14,Cornwall,South West,England
+Greater horseshoe bat,1160022,12,Shropshire,West Midlands,England
+Greater horseshoe bat,5100735,10,West Sussex,South East,England
+Greater horseshoe bat,5100350,9,Devon,South West,England
+Greater horseshoe bat,5100026,8,Devon,South West,England
+Greater horseshoe bat,1160026,7,Devon,South West,England
+Greater horseshoe bat,5100246,6,Devon,South West,England
+Greater horseshoe bat,5100320,5,Cornwall,South West,England
+Greater horseshoe bat,1160024,4,Devon,South West,England
+Greater horseshoe bat,1160023,3,Devon,South West,England
+Greater horseshoe bat,5100799,3,Gloucestershire,South West,England
+Greater horseshoe bat,5100998,1,Windsor and Maidenhead,South East,England
+Grey long-eared bat,5100043,34,Devon,South West,England
+Grey long-eared bat,5100433,8,Devon,South West,England
+Grey long-eared bat,5100740,6,Devon,South West,England
+Grey long-eared bat,5100084,6,Isle of Wight,South East,England
+Grey long-eared bat,5100521,2,Dorset,South West,England
+Grey long-eared bat,5100739,2,Devon,South West,England
+Grey long-eared bat,5100085,1,Isle of Wight,South East,England
+Leisler's bat,4100001,191,Down,Northern Ireland,Northern Ireland
+Leisler's bat,1100001,130,City of Bristol,South West,England
+Leisler's bat,5100353,113,Fermanagh,Northern Ireland,Northern Ireland
+Leisler's bat,5100631,108,Isle of Man,Isle of Man,British Crown Dependencies
+Leisler's bat,5100564,89,Armagh,Northern Ireland,Northern Ireland
+Leisler's bat,5101093,85,Down,Northern Ireland,Northern Ireland
+Leisler's bat,5100701,80,Antrim,Northern Ireland,Northern Ireland
+Leisler's bat,5100632,64,Isle of Man,Isle of Man,British Crown Dependencies
+Leisler's bat,5100237,49,Hertfordshire,East of England,England
+Leisler's bat,1100002,47,Hertfordshire,East of England,England
+Leisler's bat,5100723,11,Isle of Man,Isle of Man,British Crown Dependencies
+Leisler's bat,5101104,6,Isle of Man,Isle of Man,British Crown Dependencies
+Leisler's bat,5100599,5,Down,Northern Ireland,Northern Ireland
+Lesser horseshoe bat,3170026,1360,Powys,Wales,Wales
+Lesser horseshoe bat,3170151,1082,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170112,848,Worcestershire,West Midlands,England
+Lesser horseshoe bat,3170103,748,Powys,Wales,Wales
+Lesser horseshoe bat,1170070,692,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170056,680,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170078,659,Conwy,Wales,Wales
+Lesser horseshoe bat,1170043,613,Gloucestershire,South West,England
+Lesser horseshoe bat,3170074,612,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170098,594,Swansea,Wales,Wales
+Lesser horseshoe bat,1170121,592,Gloucestershire,South West,England
+Lesser horseshoe bat,3170027,591,Powys,Wales,Wales
+Lesser horseshoe bat,1170044,576,Gloucestershire,South West,England
+Lesser horseshoe bat,1170026,574,Gloucestershire,South West,England
+Lesser horseshoe bat,3170110,551,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170038,536,Gloucestershire,South West,England
+Lesser horseshoe bat,3170049,518,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170060,484,Conwy,Wales,Wales
+Lesser horseshoe bat,3170011,468,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170012,461,Somerset,South West,England
+Lesser horseshoe bat,3170080,454,Powys,Wales,Wales
+Lesser horseshoe bat,3170172,452,Rhondda Cynon Taff,Wales,Wales
+Lesser horseshoe bat,3170013,450,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170146,442,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170161,439,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170041,431,Powys,Wales,Wales
+Lesser horseshoe bat,1170088,424,Herefordshire,West Midlands,England
+Lesser horseshoe bat,1170098,419,Cornwall,South West,England
+Lesser horseshoe bat,3170004,416,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170136,414,Somerset,South West,England
+Lesser horseshoe bat,3170175,404,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170121,394,Powys,Wales,Wales
+Lesser horseshoe bat,1170049,394,Gloucestershire,South West,England
+Lesser horseshoe bat,3170200,392,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170048,386,Gloucestershire,South West,England
+Lesser horseshoe bat,3170076,381,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170128,378,Devon,South West,England
+Lesser horseshoe bat,3170002,374,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,5100002,361,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170107,354,Powys,Wales,Wales
+Lesser horseshoe bat,3170052,354,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170047,346,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170116,342,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170199,339,Conwy,Wales,Wales
+Lesser horseshoe bat,3170119,338,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170167,333,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170112,332,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170078,328,Gloucestershire,South West,England
+Lesser horseshoe bat,1170058,325,Devon,South West,England
+Lesser horseshoe bat,3170105,314,Powys,Wales,Wales
+Lesser horseshoe bat,3170108,304,Powys,Wales,Wales
+Lesser horseshoe bat,3170006,303,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170104,301,North Somerset,South West,England
+Lesser horseshoe bat,3170069,298,Conwy,Wales,Wales
+Lesser horseshoe bat,1170034,298,Gloucestershire,South West,England
+Lesser horseshoe bat,1170141,293,Devon,South West,England
+Lesser horseshoe bat,3170086,292,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170100,292,Swansea,Wales,Wales
+Lesser horseshoe bat,3170138,290,Powys,Wales,Wales
+Lesser horseshoe bat,3170043,288,Powys,Wales,Wales
+Lesser horseshoe bat,3170111,286,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170090,284,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170089,283,Herefordshire,West Midlands,England
+Lesser horseshoe bat,1170061,281,Devon,South West,England
+Lesser horseshoe bat,3170042,281,Powys,Wales,Wales
+Lesser horseshoe bat,3170117,280,Conwy,Wales,Wales
+Lesser horseshoe bat,3170208,278,Powys,Wales,Wales
+Lesser horseshoe bat,3170065,271,Conwy,Wales,Wales
+Lesser horseshoe bat,5101121,271,Conwy,Wales,Wales
+Lesser horseshoe bat,3170079,270,Conwy,Wales,Wales
+Lesser horseshoe bat,1170133,270,Shropshire,West Midlands,England
+Lesser horseshoe bat,3170164,268,Powys,Wales,Wales
+Lesser horseshoe bat,3170073,266,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170007,264,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170156,262,Powys,Wales,Wales
+Lesser horseshoe bat,3170010,259,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170203,256,Conwy,Wales,Wales
+Lesser horseshoe bat,3170170,255,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170051,253,North Somerset,South West,England
+Lesser horseshoe bat,3170143,253,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170132,249,Powys,Wales,Wales
+Lesser horseshoe bat,1170004,249,Devon,South West,England
+Lesser horseshoe bat,3170046,248,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170007,246,Somerset,South West,England
+Lesser horseshoe bat,1170123,246,Cornwall,South West,England
+Lesser horseshoe bat,1170031,243,Gloucestershire,South West,England
+Lesser horseshoe bat,3170088,242,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,5100347,239,Conwy,Wales,Wales
+Lesser horseshoe bat,5100528,238,Conwy,Wales,Wales
+Lesser horseshoe bat,3170095,238,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170129,234,Gloucestershire,South West,England
+Lesser horseshoe bat,1170011,229,Somerset,South West,England
+Lesser horseshoe bat,3170093,228,Powys,Wales,Wales
+Lesser horseshoe bat,3170212,227,Powys,Wales,Wales
+Lesser horseshoe bat,3170034,222,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170032,221,Gloucestershire,South West,England
+Lesser horseshoe bat,3170032,221,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170059,219,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170077,217,Conwy,Wales,Wales
+Lesser horseshoe bat,1170071,215,Shropshire,West Midlands,England
+Lesser horseshoe bat,3170035,214,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170165,210,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170067,209,Gloucestershire,South West,England
+Lesser horseshoe bat,3170055,208,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170171,208,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170152,206,Swansea,Wales,Wales
+Lesser horseshoe bat,3170147,203,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170006,203,Somerset,South West,England
+Lesser horseshoe bat,5100646,203,Conwy,Wales,Wales
+Lesser horseshoe bat,3170195,200,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170079,199,Wiltshire,South West,England
+Lesser horseshoe bat,3170099,198,Bridgend,Wales,Wales
+Lesser horseshoe bat,1170066,196,Gloucestershire,South West,England
+Lesser horseshoe bat,1170103,195,Devon,South West,England
+Lesser horseshoe bat,3170186,194,Isle of Anglesey,Wales,Wales
+Lesser horseshoe bat,5100138,191,Powys,Wales,Wales
+Lesser horseshoe bat,5100880,190,Devon,South West,England
+Lesser horseshoe bat,3170135,190,Powys,Wales,Wales
+Lesser horseshoe bat,5100600,189,Gloucestershire,South West,England
+Lesser horseshoe bat,3170163,189,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170051,188,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170202,188,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170074,187,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170050,182,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100241,181,Devon,South West,England
+Lesser horseshoe bat,1170140,181,Somerset,South West,England
+Lesser horseshoe bat,5100520,180,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170076,180,Dorset,South West,England
+Lesser horseshoe bat,1170003,178,Devon,South West,England
+Lesser horseshoe bat,1170099,175,Devon,South West,England
+Lesser horseshoe bat,3170113,175,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170174,174,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170207,173,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170071,172,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170075,172,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170081,171,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170015,170,Cornwall,South West,England
+Lesser horseshoe bat,1170091,169,Gloucestershire,South West,England
+Lesser horseshoe bat,3170187,168,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170190,168,Swansea,Wales,Wales
+Lesser horseshoe bat,3170089,168,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170118,167,Somerset,South West,England
+Lesser horseshoe bat,5100338,165,Devon,South West,England
+Lesser horseshoe bat,1170010,164,Somerset,South West,England
+Lesser horseshoe bat,3170193,163,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170191,162,Swansea,Wales,Wales
+Lesser horseshoe bat,1170126,161,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170021,161,The Vale of Glamorgan,Wales,Wales
+Lesser horseshoe bat,1170057,160,Cornwall,South West,England
+Lesser horseshoe bat,3170201,159,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170101,157,Devon,South West,England
+Lesser horseshoe bat,1170016,153,Cornwall,South West,England
+Lesser horseshoe bat,1170138,152,Worcestershire,West Midlands,England
+Lesser horseshoe bat,1170135,149,Worcestershire,West Midlands,England
+Lesser horseshoe bat,5100028,148,Powys,Wales,Wales
+Lesser horseshoe bat,3170091,148,Swansea,Wales,Wales
+Lesser horseshoe bat,3170127,145,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170126,144,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170093,143,Cornwall,South West,England
+Lesser horseshoe bat,3170169,142,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170142,142,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100067,142,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170033,141,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170104,141,Powys,Wales,Wales
+Lesser horseshoe bat,3170179,140,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170154,138,Powys,Wales,Wales
+Lesser horseshoe bat,5100488,137,Devon,South West,England
+Lesser horseshoe bat,1170009,137,Somerset,South West,England
+Lesser horseshoe bat,3170001,137,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170002,136,Devon,South West,England
+Lesser horseshoe bat,3170168,136,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170072,135,Herefordshire,West Midlands,England
+Lesser horseshoe bat,5100392,134,Conwy,Wales,Wales
+Lesser horseshoe bat,5101123,132,Conwy,Wales,Wales
+Lesser horseshoe bat,3170131,132,Swansea,Wales,Wales
+Lesser horseshoe bat,3170184,131,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170117,131,Somerset,South West,England
+Lesser horseshoe bat,1170084,131,Devon,South West,England
+Lesser horseshoe bat,5100351,130,Bridgend,Wales,Wales
+Lesser horseshoe bat,1170083,130,Devon,South West,England
+Lesser horseshoe bat,5100243,128,Devon,South West,England
+Lesser horseshoe bat,3170101,128,Powys,Wales,Wales
+Lesser horseshoe bat,3170118,126,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170144,126,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170150,126,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170155,126,Powys,Wales,Wales
+Lesser horseshoe bat,3170014,125,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170124,124,Somerset,South West,England
+Lesser horseshoe bat,1170040,123,Wiltshire,South West,England
+Lesser horseshoe bat,1170068,120,Devon,South West,England
+Lesser horseshoe bat,3170178,120,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170053,120,Somerset,South West,England
+Lesser horseshoe bat,3170019,119,Swansea,Wales,Wales
+Lesser horseshoe bat,1170090,118,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170194,118,Conwy,Wales,Wales
+Lesser horseshoe bat,1170075,115,Cornwall,South West,England
+Lesser horseshoe bat,1170069,113,Devon,South West,England
+Lesser horseshoe bat,1170139,112,Worcestershire,West Midlands,England
+Lesser horseshoe bat,3170072,112,Conwy,Wales,Wales
+Lesser horseshoe bat,1170134,112,Gloucestershire,South West,England
+Lesser horseshoe bat,1170005,112,Somerset,South West,England
+Lesser horseshoe bat,3170198,112,Swansea,Wales,Wales
+Lesser horseshoe bat,1170023,111,Worcestershire,West Midlands,England
+Lesser horseshoe bat,1170025,110,Warwickshire,West Midlands,England
+Lesser horseshoe bat,1170142,110,Cornwall,South West,England
+Lesser horseshoe bat,1170137,109,Devon,South West,England
+Lesser horseshoe bat,3170054,109,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170140,108,Powys,Wales,Wales
+Lesser horseshoe bat,3170037,108,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170102,107,Herefordshire,West Midlands,England
+Lesser horseshoe bat,1170033,107,Gloucestershire,South West,England
+Lesser horseshoe bat,1170022,105,Cornwall,South West,England
+Lesser horseshoe bat,5100253,105,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,3170176,104,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170160,103,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100801,103,Somerset,South West,England
+Lesser horseshoe bat,5100348,102,Conwy,Wales,Wales
+Lesser horseshoe bat,3170141,102,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170036,102,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170086,102,Somerset,South West,England
+Lesser horseshoe bat,3170134,101,Powys,Wales,Wales
+Lesser horseshoe bat,5100073,101,Denbighshire,Wales,Wales
+Lesser horseshoe bat,5101152,100,,,
+Lesser horseshoe bat,1170019,98,Somerset,South West,England
+Lesser horseshoe bat,3170125,97,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170132,96,Shropshire,West Midlands,England
+Lesser horseshoe bat,1170052,96,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,3170149,96,Swansea,Wales,Wales
+Lesser horseshoe bat,1170111,95,Gloucestershire,South West,England
+Lesser horseshoe bat,3170115,95,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170030,95,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170185,94,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170192,93,Powys,Wales,Wales
+Lesser horseshoe bat,3170061,92,Conwy,Wales,Wales
+Lesser horseshoe bat,1170029,91,Gloucestershire,South West,England
+Lesser horseshoe bat,1170042,90,Warwickshire,West Midlands,England
+Lesser horseshoe bat,3170016,89,Swansea,Wales,Wales
+Lesser horseshoe bat,1170064,89,Devon,South West,England
+Lesser horseshoe bat,3170097,88,The Vale of Glamorgan,Wales,Wales
+Lesser horseshoe bat,3170145,88,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170129,86,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170063,85,Somerset,South West,England
+Lesser horseshoe bat,1170036,85,Gloucestershire,South West,England
+Lesser horseshoe bat,3170196,84,Swansea,Wales,Wales
+Lesser horseshoe bat,1170127,84,Gloucestershire,South West,England
+Lesser horseshoe bat,5100272,83,Powys,Wales,Wales
+Lesser horseshoe bat,3170197,83,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170094,82,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170060,81,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170038,81,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170105,80,Gloucestershire,South West,England
+Lesser horseshoe bat,5100450,80,Wiltshire,South West,England
+Lesser horseshoe bat,3170102,80,Powys,Wales,Wales
+Lesser horseshoe bat,1170108,78,Gloucestershire,South West,England
+Lesser horseshoe bat,1170087,78,Herefordshire,West Midlands,England
+Lesser horseshoe bat,3170173,78,Cardiff,Wales,Wales
+Lesser horseshoe bat,3170213,77,Powys,Wales,Wales
+Lesser horseshoe bat,1170027,75,Gloucestershire,South West,England
+Lesser horseshoe bat,5100297,74,Devon,South West,England
+Lesser horseshoe bat,3170128,73,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100802,73,Dorset,South West,England
+Lesser horseshoe bat,3170205,72,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,5100251,71,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,3170029,71,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170204,69,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,1170131,68,Somerset,South West,England
+Lesser horseshoe bat,1170059,68,Wiltshire,South West,England
+Lesser horseshoe bat,1170021,67,Cornwall,South West,England
+Lesser horseshoe bat,5100967,66,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100333,66,Gloucestershire,South West,England
+Lesser horseshoe bat,5100647,64,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,5101041,63,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,5100300,61,Ceredigion,Wales,Wales
+Lesser horseshoe bat,3170028,61,Powys,Wales,Wales
+Lesser horseshoe bat,1170045,58,Gloucestershire,South West,England
+Lesser horseshoe bat,5101006,57,Somerset,South West,England
+Lesser horseshoe bat,3170182,57,Flintshire,Wales,Wales
+Lesser horseshoe bat,5100072,56,Denbighshire,Wales,Wales
+Lesser horseshoe bat,1170119,56,Dorset,South West,England
+Lesser horseshoe bat,5100943,56,Swansea,Wales,Wales
+Lesser horseshoe bat,1170113,56,Oxfordshire,South East,England
+Lesser horseshoe bat,1170092,56,Devon,South West,England
+Lesser horseshoe bat,3170130,55,Swansea,Wales,Wales
+Lesser horseshoe bat,3170120,55,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170166,55,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170180,54,Flintshire,Wales,Wales
+Lesser horseshoe bat,5100171,54,Powys,Wales,Wales
+Lesser horseshoe bat,3170017,54,Swansea,Wales,Wales
+Lesser horseshoe bat,5100296,52,Devon,South West,England
+Lesser horseshoe bat,1170054,52,Devon,South West,England
+Lesser horseshoe bat,3170158,51,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,5100037,50,Devon,South West,England
+Lesser horseshoe bat,1170008,50,Somerset,South West,England
+Lesser horseshoe bat,1170041,49,Somerset,South West,England
+Lesser horseshoe bat,5100142,48,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,3170063,48,Conwy,Wales,Wales
+Lesser horseshoe bat,1170018,47,Somerset,South West,England
+Lesser horseshoe bat,5101120,45,Gwynedd,Wales,Wales
+Lesser horseshoe bat,3170209,43,Swansea,Wales,Wales
+Lesser horseshoe bat,5100141,42,Somerset,South West,England
+Lesser horseshoe bat,1170125,42,Devon,South West,England
+Lesser horseshoe bat,5100495,42,Dorset,South West,England
+Lesser horseshoe bat,5100803,41,Dorset,South West,England
+Lesser horseshoe bat,5100349,40,Devon,South West,England
+Lesser horseshoe bat,3170114,38,Conwy,Wales,Wales
+Lesser horseshoe bat,1170020,38,Somerset,South West,England
+Lesser horseshoe bat,3170082,37,Denbighshire,Wales,Wales
+Lesser horseshoe bat,3170157,37,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170040,37,Powys,Wales,Wales
+Lesser horseshoe bat,3170181,36,Flintshire,Wales,Wales
+Lesser horseshoe bat,5100467,36,Cornwall,South West,England
+Lesser horseshoe bat,1170107,34,Devon,South West,England
+Lesser horseshoe bat,3170106,34,Powys,Wales,Wales
+Lesser horseshoe bat,5100961,33,Somerset,South West,England
+Lesser horseshoe bat,1170056,33,Devon,South West,England
+Lesser horseshoe bat,3170177,33,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170030,32,Gloucestershire,South West,England
+Lesser horseshoe bat,3170109,32,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5101037,32,Devon,South West,England
+Lesser horseshoe bat,5100316,31,Cornwall,South West,England
+Lesser horseshoe bat,3170159,30,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100984,29,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,1170116,28,Somerset,South West,England
+Lesser horseshoe bat,5100407,28,Somerset,South West,England
+Lesser horseshoe bat,1170013,28,Somerset,South West,England
+Lesser horseshoe bat,5100505,27,Cornwall,South West,England
+Lesser horseshoe bat,3170139,27,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,1170073,26,Somerset,South West,England
+Lesser horseshoe bat,1170014,25,Devon,South West,England
+Lesser horseshoe bat,3170183,25,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,3170066,25,Gwynedd,Wales,Wales
+Lesser horseshoe bat,1170120,24,Wiltshire,South West,England
+Lesser horseshoe bat,1170024,24,Worcestershire,West Midlands,England
+Lesser horseshoe bat,1170037,24,Gloucestershire,South West,England
+Lesser horseshoe bat,1170047,23,Gloucestershire,South West,England
+Lesser horseshoe bat,1170080,22,Somerset,South West,England
+Lesser horseshoe bat,5100216,21,Gloucestershire,South West,England
+Lesser horseshoe bat,1170122,21,Devon,South West,England
+Lesser horseshoe bat,1170028,20,Gloucestershire,South West,England
+Lesser horseshoe bat,3170058,20,Conwy,Wales,Wales
+Lesser horseshoe bat,5100094,19,Denbighshire,Wales,Wales
+Lesser horseshoe bat,5100804,19,Cornwall,South West,England
+Lesser horseshoe bat,1170130,19,Shropshire,West Midlands,England
+Lesser horseshoe bat,1170110,18,Devon,South West,England
+Lesser horseshoe bat,1170114,18,Devon,South West,England
+Lesser horseshoe bat,3170136,18,Powys,Wales,Wales
+Lesser horseshoe bat,1170115,17,Devon,South West,England
+Lesser horseshoe bat,1170109,17,Wiltshire,South West,England
+Lesser horseshoe bat,1170046,17,Gloucestershire,South West,England
+Lesser horseshoe bat,3170133,17,Powys,Wales,Wales
+Lesser horseshoe bat,3170122,16,Pembrokeshire,Wales,Wales
+Lesser horseshoe bat,5100466,15,Devon,South West,England
+Lesser horseshoe bat,5100250,13,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,1170035,13,Gloucestershire,South West,England
+Lesser horseshoe bat,3170153,13,Powys,Wales,Wales
+Lesser horseshoe bat,1170100,12,Devon,South West,England
+Lesser horseshoe bat,5100144,11,Flintshire,Wales,Wales
+Lesser horseshoe bat,5101049,10,Gloucestershire,South West,England
+Lesser horseshoe bat,1170096,10,Devon,South West,England
+Lesser horseshoe bat,5100252,10,Bath and North East Somerset,South West,England
+Lesser horseshoe bat,5101050,9,Gloucestershire,South West,England
+Lesser horseshoe bat,1170097,9,Devon,South West,England
+Lesser horseshoe bat,1170095,7,Wiltshire,South West,England
+Lesser horseshoe bat,5100786,7,Cornwall,South West,England
+Lesser horseshoe bat,1170055,7,Cornwall,South West,England
+Lesser horseshoe bat,5100145,6,Flintshire,Wales,Wales
+Lesser horseshoe bat,5101124,5,Conwy,Wales,Wales
+Lesser horseshoe bat,3170206,5,Swansea,Wales,Wales
+Lesser horseshoe bat,1170062,5,Somerset,South West,England
+Lesser horseshoe bat,1170094,5,Gloucestershire,South West,England
+Lesser horseshoe bat,1170081,5,Worcestershire,West Midlands,England
+Lesser horseshoe bat,1170082,5,Cornwall,South West,England
+Lesser horseshoe bat,1170050,4,Wiltshire,South West,England
+Lesser horseshoe bat,3170009,4,Monmouthshire,Wales,Wales
+Lesser horseshoe bat,5100892,3,Cornwall,South West,England
+Lesser horseshoe bat,5100004,3,Somerset,South West,England
+Lesser horseshoe bat,5100260,2,Devon,South West,England
+Lesser horseshoe bat,3170162,2,Gwynedd,Wales,Wales
+Lesser horseshoe bat,5100319,2,Cornwall,South West,England
+Lesser horseshoe bat,5101060,2,Devon,South West,England
+Lesser horseshoe bat,5100824,2,Powys,Wales,Wales
+Lesser horseshoe bat,5100429,2,Dorset,South West,England
+Lesser horseshoe bat,3170211,2,Flintshire,Wales,Wales
+Lesser horseshoe bat,3170137,1,Powys,Wales,Wales
+Lesser horseshoe bat,1170065,1,Devon,South West,England
+Long-eared species,5100302,11,Dorset,South West,England
+Nathusius' pipistrelle,5101074,447,Antrim,Northern Ireland,Northern Ireland
+Nathusius' pipistrelle,5100512,4,Greater London,London,England
+Natterer's bat,5100180,368,Somerset,South West,England
+Natterer's bat,1090025,248,Derbyshire,East Midlands,England
+Natterer's bat,1090061,225,Devon,South West,England
+Natterer's bat,1090071,168,Dorset,South West,England
+Natterer's bat,1090046,159,Leicestershire,East Midlands,England
+Natterer's bat,1090044,158,Buckinghamshire,South East,England
+Natterer's bat,1090053,141,East Riding of Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090036,138,Lincolnshire,East Midlands,England
+Natterer's bat,5100270,136,Lincolnshire,East Midlands,England
+Natterer's bat,5100308,132,Cumbria,North West,England
+Natterer's bat,1090063,128,Norfolk,East of England,England
+Natterer's bat,2090004,123,Argyll and Bute,Scotland,Scotland
+Natterer's bat,1090026,117,Norfolk,East of England,England
+Natterer's bat,1090012,117,Devon,South West,England
+Natterer's bat,5100530,114,Derbyshire,East Midlands,England
+Natterer's bat,1120652,113,North Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090043,110,Devon,South West,England
+Natterer's bat,1090009,107,East Sussex,South East,England
+Natterer's bat,1090003,106,Oxfordshire,South East,England
+Natterer's bat,3090001,103,Ceredigion,Wales,Wales
+Natterer's bat,2090005,103,South Lanarkshire,Scotland,Scotland
+Natterer's bat,1090051,100,Worcestershire,West Midlands,England
+Natterer's bat,1090078,97,East Riding of Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,2090006,94,Glasgow City,Scotland,Scotland
+Natterer's bat,1090023,89,Leicestershire,East Midlands,England
+Natterer's bat,1090065,88,Norfolk,East of England,England
+Natterer's bat,2090001,87,Stirling,Scotland,Scotland
+Natterer's bat,1090011,87,Northamptonshire,East Midlands,England
+Natterer's bat,1090028,85,East Riding of Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090072,85,Hertfordshire,East of England,England
+Natterer's bat,1090037,85,Derbyshire,East Midlands,England
+Natterer's bat,1090082,84,Devon,South West,England
+Natterer's bat,1090070,81,Leicestershire,East Midlands,England
+Natterer's bat,1090024,80,Somerset,South West,England
+Natterer's bat,1090056,80,Devon,South West,England
+Natterer's bat,1090014,77,Oxfordshire,South East,England
+Natterer's bat,5100545,76,Hampshire,South East,England
+Natterer's bat,1090038,73,Northumberland,North East,England
+Natterer's bat,1090019,72,Cumbria,North West,England
+Natterer's bat,5100994,71,Norfolk,East of England,England
+Natterer's bat,2090002,69,Highland,Scotland,Scotland
+Natterer's bat,1090042,68,North Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090069,67,Devon,South West,England
+Natterer's bat,1090039,64,East Riding of Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,2090007,62,Highland,Scotland,Scotland
+Natterer's bat,1090034,60,Oxfordshire,South East,England
+Natterer's bat,5100754,60,Leicestershire,East Midlands,England
+Natterer's bat,1090031,60,Hampshire,South East,England
+Natterer's bat,1090015,59,Northumberland,North East,England
+Natterer's bat,1090074,56,Leicestershire,East Midlands,England
+Natterer's bat,1090055,55,East Sussex,South East,England
+Natterer's bat,1090002,54,West Sussex,South East,England
+Natterer's bat,1090029,53,Leicestershire,East Midlands,England
+Natterer's bat,5100753,53,Leicestershire,East Midlands,England
+Natterer's bat,1090059,52,Hertfordshire,East of England,England
+Natterer's bat,1090047,51,Rutland,East Midlands,England
+Natterer's bat,1090067,51,Leicester,East Midlands,England
+Natterer's bat,1090066,50,North Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090060,50,Oxfordshire,South East,England
+Natterer's bat,1090016,50,Lancashire,North West,England
+Natterer's bat,1090005,49,Oxfordshire,South East,England
+Natterer's bat,1090007,48,Northamptonshire,East Midlands,England
+Natterer's bat,1090058,47,Hertfordshire,East of England,England
+Natterer's bat,1090045,46,Oxfordshire,South East,England
+Natterer's bat,5100264,45,Nottinghamshire,East Midlands,England
+Natterer's bat,5101084,45,Norfolk,East of England,England
+Natterer's bat,1090057,44,Leicestershire,East Midlands,England
+Natterer's bat,1090010,44,Shropshire,West Midlands,England
+Natterer's bat,5100299,44,Somerset,South West,England
+Natterer's bat,5100174,42,Staffordshire,West Midlands,England
+Natterer's bat,5100697,42,Northumberland,North East,England
+Natterer's bat,3090005,42,Ceredigion,Wales,Wales
+Natterer's bat,1090041,42,Lincolnshire,East Midlands,England
+Natterer's bat,1090022,39,Somerset,South West,England
+Natterer's bat,1090017,39,South Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090075,38,Devon,South West,England
+Natterer's bat,1090004,37,Oxfordshire,South East,England
+Natterer's bat,1090081,36,Devon,South West,England
+Natterer's bat,1090021,34,Cumbria,North West,England
+Natterer's bat,5100431,34,Lincolnshire,East Midlands,England
+Natterer's bat,5100045,34,Denbighshire,Wales,Wales
+Natterer's bat,5100953,33,Somerset,South West,England
+Natterer's bat,1090068,33,Leicestershire,East Midlands,England
+Natterer's bat,1090076,31,Oxfordshire,South East,England
+Natterer's bat,1090027,29,East Riding of Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090006,28,Redcar and Cleveland,North East,England
+Natterer's bat,1090050,26,Hampshire,South East,England
+Natterer's bat,1090064,25,Lincolnshire,East Midlands,England
+Natterer's bat,3090003,25,Powys,Wales,Wales
+Natterer's bat,1090020,24,North Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090080,24,Oxfordshire,South East,England
+Natterer's bat,5100533,20,Fermanagh,Northern Ireland,Northern Ireland
+Natterer's bat,1090049,19,Northumberland,North East,England
+Natterer's bat,1090054,18,Hampshire,South East,England
+Natterer's bat,5100134,17,Wiltshire,South West,England
+Natterer's bat,2090003,11,Perth and Kinross,Scotland,Scotland
+Natterer's bat,1090062,10,Hartlepool,North East,England
+Natterer's bat,1090030,10,Essex,East of England,England
+Natterer's bat,1090013,9,Derbyshire,East Midlands,England
+Natterer's bat,1090040,9,Kent,South East,England
+Natterer's bat,1090018,9,South Yorkshire,Yorkshire and The Humber,England
+Natterer's bat,1090001,9,West Sussex,South East,England
+Natterer's bat,1090077,9,Oxfordshire,South East,England
+Natterer's bat,1090008,7,East Sussex,South East,England
+Natterer's bat,3090002,6,Carmarthenshire,Wales,Wales
+Natterer's bat,3090004,2,Powys,Wales,Wales
+Natterer's bat,1090079,2,North Yorkshire,Yorkshire and The Humber,England
+Noctule,1110002,174,Cambridgeshire,East of England,England
+Noctule,1110013,141,Bath and North East Somerset,South West,England
+Noctule,1110006,111,Cumbria,North West,England
+Noctule,1110003,75,East Sussex,South East,England
+Noctule,1110005,61,Kent,South East,England
+Noctule,1110001,54,Somerset,South West,England
+Noctule,1110004,54,Isle of Wight,South East,England
+Noctule,1110007,50,Rutland,East Midlands,England
+Noctule,1110009,48,Leicestershire,East Midlands,England
+Noctule,5100278,38,Cornwall,South West,England
+Noctule,5100331,31,Hampshire,South East,England
+Noctule,5101027,25,Reading,South East,England
+Noctule,5100127,22,Somerset,South West,England
+Noctule,1110011,17,Leicestershire,East Midlands,England
+Noctule,1110008,17,Cumbria,North West,England
+Noctule,1110010,16,Leicestershire,East Midlands,England
+Noctule,5101115,14,Lancashire,North West,England
+Noctule,1110012,11,West Berkshire,South East,England
+Pipistrelle species,2120123,1331,West Dunbartonshire,Scotland,Scotland
+Pipistrelle species,1120874,865,Lincolnshire,East Midlands,England
+Pipistrelle species,5100956,850,Stirling,Scotland,Scotland
+Pipistrelle species,5100189,701,Pembrokeshire,Wales,Wales
+Pipistrelle species,2120121,680,Highland,Scotland,Scotland
+Pipistrelle species,3120078,680,Wrexham,Wales,Wales
+Pipistrelle species,4120001,662,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1121155,649,Lancashire,North West,England
+Pipistrelle species,3120101,610,Ceredigion,Wales,Wales
+Pipistrelle species,1121123,608,Somerset,South West,England
+Pipistrelle species,5100572,567,North Ayrshire,Scotland,Scotland
+Pipistrelle species,3120102,541,Pembrokeshire,Wales,Wales
+Pipistrelle species,1120651,535,Redcar and Cleveland,North East,England
+Pipistrelle species,2120022,529,East Lothian,Scotland,Scotland
+Pipistrelle species,3120092,528,Ceredigion,Wales,Wales
+Pipistrelle species,1120910,528,Isle of Wight,South East,England
+Pipistrelle species,1120066,528,Kent,South East,England
+Pipistrelle species,2120195,527,Angus,Scotland,Scotland
+Pipistrelle species,3120066,519,Pembrokeshire,Wales,Wales
+Pipistrelle species,3120030,511,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120513,500,Worcestershire,West Midlands,England
+Pipistrelle species,3120053,500,Carmarthenshire,Wales,Wales
+Pipistrelle species,5100791,499,Scottish Borders,Scotland,Scotland
+Pipistrelle species,4120006,450,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120893,438,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100894,435,East Ayrshire,Scotland,Scotland
+Pipistrelle species,4120008,427,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120726,411,West Sussex,South East,England
+Pipistrelle species,1120864,409,Dorset,South West,England
+Pipistrelle species,2120053,406,Fife,Scotland,Scotland
+Pipistrelle species,5100474,404,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,1121069,400,Gloucestershire,South West,England
+Pipistrelle species,1120938,399,West Sussex,South East,England
+Pipistrelle species,1120869,396,Suffolk,East of England,England
+Pipistrelle species,1120959,384,Cumbria,North West,England
+Pipistrelle species,1120542,384,Bedfordshire,East of England,England
+Pipistrelle species,1121247,376,Nottinghamshire,East Midlands,England
+Pipistrelle species,5100476,366,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120950,363,Kent,South East,England
+Pipistrelle species,1120442,363,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100354,357,Fermanagh,Northern Ireland,Northern Ireland
+Pipistrelle species,2120214,355,East Lothian,Scotland,Scotland
+Pipistrelle species,2120058,354,Highland,Scotland,Scotland
+Pipistrelle species,1120380,353,West Berkshire,South East,England
+Pipistrelle species,1120357,347,Hampshire,South East,England
+Pipistrelle species,5100542,346,Powys,Wales,Wales
+Pipistrelle species,5100658,337,Aberdeen City,Scotland,Scotland
+Pipistrelle species,3120096,335,Carmarthenshire,Wales,Wales
+Pipistrelle species,3120014,334,Gwynedd,Wales,Wales
+Pipistrelle species,2120002,332,Stirling,Scotland,Scotland
+Pipistrelle species,5100206,328,Lancashire,North West,England
+Pipistrelle species,1120366,323,Suffolk,East of England,England
+Pipistrelle species,1120383,318,Dorset,South West,England
+Pipistrelle species,1121183,315,Nottinghamshire,East Midlands,England
+Pipistrelle species,2120239,313,South Lanarkshire,Scotland,Scotland
+Pipistrelle species,1120477,294,Oxfordshire,South East,England
+Pipistrelle species,2120037,293,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,5100401,286,Cardiff,Wales,Wales
+Pipistrelle species,1120373,285,Devon,South West,England
+Pipistrelle species,1120936,278,East Sussex,South East,England
+Pipistrelle species,1120382,276,Norfolk,East of England,England
+Pipistrelle species,5100591,268,Cumbria,North West,England
+Pipistrelle species,1120287,263,Oxfordshire,South East,England
+Pipistrelle species,4120026,262,Omagh,Northern Ireland,Northern Ireland
+Pipistrelle species,5100593,261,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,5100930,259,Scottish Borders,Scotland,Scotland
+Pipistrelle species,3120021,258,Denbighshire,Wales,Wales
+Pipistrelle species,1120345,256,Norfolk,East of England,England
+Pipistrelle species,1120401,253,Devon,South West,England
+Pipistrelle species,1121010,251,Rutland,East Midlands,England
+Pipistrelle species,1120307,250,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1121150,245,Hampshire,South East,England
+Pipistrelle species,5100155,245,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,3120089,244,Pembrokeshire,Wales,Wales
+Pipistrelle species,1120939,244,Lancashire,North West,England
+Pipistrelle species,1120149,244,Devon,South West,England
+Pipistrelle species,1120468,242,Wiltshire,South West,England
+Pipistrelle species,1120259,240,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120128,234,East Riding of Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120975,228,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120265,224,Hampshire,South East,England
+Pipistrelle species,1120978,223,East Sussex,South East,England
+Pipistrelle species,1121133,222,Cumbria,North West,England
+Pipistrelle species,5100417,221,Pembrokeshire,Wales,Wales
+Pipistrelle species,5100323,219,North Lincolnshire,Yorkshire and The Humber,England
+Pipistrelle species,1120918,219,Hampshire,South East,England
+Pipistrelle species,5100996,216,Carmarthenshire,Wales,Wales
+Pipistrelle species,2120248,215,Renfrewshire,Scotland,Scotland
+Pipistrelle species,2120078,213,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,4120007,210,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120615,205,Kent,South East,England
+Pipistrelle species,5100582,203,Devon,South West,England
+Pipistrelle species,1121210,199,West Sussex,South East,England
+Pipistrelle species,5100716,197,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120118,196,West Sussex,South East,England
+Pipistrelle species,1120416,195,County Durham,North East,England
+Pipistrelle species,1120637,195,Somerset,South West,England
+Pipistrelle species,1120192,191,Hampshire,South East,England
+Pipistrelle species,2120031,191,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1121173,191,Cheshire,North West,England
+Pipistrelle species,5100497,190,West Sussex,South East,England
+Pipistrelle species,4120031,187,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120928,187,Hertfordshire,East of England,England
+Pipistrelle species,4120016,183,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120964,183,Hampshire,South East,England
+Pipistrelle species,1120845,182,Surrey,South East,England
+Pipistrelle species,2120241,181,Fife,Scotland,Scotland
+Pipistrelle species,1120384,177,Herefordshire,West Midlands,England
+Pipistrelle species,1120958,176,Cheshire,North West,England
+Pipistrelle species,1120300,176,Staffordshire,West Midlands,England
+Pipistrelle species,1120214,173,Lancashire,North West,England
+Pipistrelle species,1120904,173,Isle of Wight,South East,England
+Pipistrelle species,1120171,172,Shropshire,West Midlands,England
+Pipistrelle species,2120236,172,Highland,Scotland,Scotland
+Pipistrelle species,1120417,171,County Durham,North East,England
+Pipistrelle species,1120925,171,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120463,169,Dorset,South West,England
+Pipistrelle species,1120856,169,Lancashire,North West,England
+Pipistrelle species,1120970,169,Rutland,East Midlands,England
+Pipistrelle species,2120187,168,Dumfries and Galloway,Scotland,Scotland
+Pipistrelle species,1120899,166,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120146,165,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100052,164,Redcar and Cleveland,North East,England
+Pipistrelle species,4120003,163,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,5100657,161,Greater London,London,England
+Pipistrelle species,1120931,160,Peterborough,East of England,England
+Pipistrelle species,1120083,160,Northamptonshire,East Midlands,England
+Pipistrelle species,1120469,158,Wiltshire,South West,England
+Pipistrelle species,1120892,158,Surrey,South East,England
+Pipistrelle species,1120985,157,Derbyshire,East Midlands,England
+Pipistrelle species,4120018,156,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120494,156,Surrey,South East,England
+Pipistrelle species,2120105,156,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1120755,156,West Sussex,South East,England
+Pipistrelle species,1120531,156,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120867,155,Kent,South East,England
+Pipistrelle species,1120979,154,Leicestershire,East Midlands,England
+Pipistrelle species,1120907,153,Isle of Wight,South East,England
+Pipistrelle species,1120439,151,Devon,South West,England
+Pipistrelle species,1121212,151,Buckinghamshire,South East,England
+Pipistrelle species,3120080,150,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120871,150,Lincolnshire,East Midlands,England
+Pipistrelle species,1120411,149,Tyne and Wear,North East,England
+Pipistrelle species,1120508,149,Leicestershire,East Midlands,England
+Pipistrelle species,2120054,147,Perth and Kinross,Scotland,Scotland
+Pipistrelle species,2120125,146,Glasgow City,Scotland,Scotland
+Pipistrelle species,1120403,146,Oxfordshire,South East,England
+Pipistrelle species,5100674,144,Northumberland,North East,England
+Pipistrelle species,1120426,144,County Durham,North East,England
+Pipistrelle species,5101092,144,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120657,141,Buckinghamshire,South East,England
+Pipistrelle species,5100289,140,Scottish Borders,Scotland,Scotland
+Pipistrelle species,1120736,140,Lancashire,North West,England
+Pipistrelle species,5101023,139,Gloucestershire,South West,England
+Pipistrelle species,1120981,138,Leicestershire,East Midlands,England
+Pipistrelle species,1120413,137,County Durham,North East,England
+Pipistrelle species,2120019,136,Highland,Scotland,Scotland
+Pipistrelle species,1120435,136,Warwickshire,West Midlands,England
+Pipistrelle species,1120927,135,Suffolk,East of England,England
+Pipistrelle species,1120799,134,Gloucestershire,South West,England
+Pipistrelle species,1120444,133,Norfolk,East of England,England
+Pipistrelle species,1120033,133,Suffolk,East of England,England
+Pipistrelle species,5100168,133,Fermanagh,Northern Ireland,Northern Ireland
+Pipistrelle species,1121255,133,Shropshire,West Midlands,England
+Pipistrelle species,1120555,132,East Sussex,South East,England
+Pipistrelle species,1120177,132,Devon,South West,England
+Pipistrelle species,1120450,131,Surrey,South East,England
+Pipistrelle species,2120016,131,Highland,Scotland,Scotland
+Pipistrelle species,5101009,131,Norfolk,East of England,England
+Pipistrelle species,1121248,130,Nottinghamshire,East Midlands,England
+Pipistrelle species,3120005,130,Powys,Wales,Wales
+Pipistrelle species,1120090,129,Nottinghamshire,East Midlands,England
+Pipistrelle species,3120058,128,Powys,Wales,Wales
+Pipistrelle species,1120567,128,Kent,South East,England
+Pipistrelle species,1120174,128,Kent,South East,England
+Pipistrelle species,1121261,127,Hampshire,South East,England
+Pipistrelle species,1120028,127,Devon,South West,England
+Pipistrelle species,5100751,127,Angus,Scotland,Scotland
+Pipistrelle species,1120453,126,County Durham,North East,England
+Pipistrelle species,1120179,126,Staffordshire,West Midlands,England
+Pipistrelle species,1120913,125,Isle of Wight,South East,England
+Pipistrelle species,1120645,125,Norfolk,East of England,England
+Pipistrelle species,2120042,125,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1120881,122,Lincolnshire,East Midlands,England
+Pipistrelle species,1120995,122,Isle of Wight,South East,England
+Pipistrelle species,1121081,122,Somerset,South West,England
+Pipistrelle species,1121182,121,Nottinghamshire,East Midlands,England
+Pipistrelle species,1121203,121,Derbyshire,East Midlands,England
+Pipistrelle species,1120371,121,Hertfordshire,East of England,England
+Pipistrelle species,1120550,120,Kent,South East,England
+Pipistrelle species,1120440,120,Shropshire,West Midlands,England
+Pipistrelle species,1120851,120,Northamptonshire,East Midlands,England
+Pipistrelle species,2120023,119,East Lothian,Scotland,Scotland
+Pipistrelle species,1120491,119,Staffordshire,West Midlands,England
+Pipistrelle species,1120889,117,Cornwall,South West,England
+Pipistrelle species,3120094,117,Ceredigion,Wales,Wales
+Pipistrelle species,5100515,117,West Sussex,South East,England
+Pipistrelle species,1120037,116,Greater London,London,England
+Pipistrelle species,1120854,115,Redcar and Cleveland,North East,England
+Pipistrelle species,2120075,114,North Lanarkshire,Scotland,Scotland
+Pipistrelle species,5100663,114,County Durham,North East,England
+Pipistrelle species,1120717,114,Cornwall,South West,England
+Pipistrelle species,1120947,113,Essex,East of England,England
+Pipistrelle species,1120933,113,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120700,112,Cumbria,North West,England
+Pipistrelle species,1120861,112,Leicestershire,East Midlands,England
+Pipistrelle species,1120354,112,Warwickshire,West Midlands,England
+Pipistrelle species,1120360,112,Leicestershire,East Midlands,England
+Pipistrelle species,1120110,111,Warwickshire,West Midlands,England
+Pipistrelle species,1120791,110,Essex,East of England,England
+Pipistrelle species,5100443,110,Highland,Scotland,Scotland
+Pipistrelle species,1120924,109,Hampshire,South East,England
+Pipistrelle species,3120086,108,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120730,108,Surrey,South East,England
+Pipistrelle species,1120990,107,Isle of Wight,South East,England
+Pipistrelle species,1121198,107,Derbyshire,East Midlands,England
+Pipistrelle species,1120434,107,Dorset,South West,England
+Pipistrelle species,1120790,107,York,Yorkshire and The Humber,England
+Pipistrelle species,1120589,106,Devon,South West,England
+Pipistrelle species,1120969,106,Cumbria,North West,England
+Pipistrelle species,2120148,106,Glasgow City,Scotland,Scotland
+Pipistrelle species,1120914,105,Isle of Wight,South East,England
+Pipistrelle species,1120520,104,Warwickshire,West Midlands,England
+Pipistrelle species,1120238,104,Suffolk,East of England,England
+Pipistrelle species,5100010,104,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120262,104,Tyne and Wear,North East,England
+Pipistrelle species,1120134,103,Somerset,South West,England
+Pipistrelle species,1120915,103,Isle of Wight,South East,England
+Pipistrelle species,2120067,103,Highland,Scotland,Scotland
+Pipistrelle species,1121147,103,West Sussex,South East,England
+Pipistrelle species,1121277,102,West Sussex,South East,England
+Pipistrelle species,1120742,101,Leicestershire,East Midlands,England
+Pipistrelle species,1120609,101,Kent,South East,England
+Pipistrelle species,1120923,101,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,4120024,100,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120878,100,Lincolnshire,East Midlands,England
+Pipistrelle species,1120942,100,Lincolnshire,East Midlands,England
+Pipistrelle species,3120011,100,Powys,Wales,Wales
+Pipistrelle species,1120862,98,Suffolk,East of England,England
+Pipistrelle species,1120283,98,Somerset,South West,England
+Pipistrelle species,2120032,98,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1120071,98,Lancashire,North West,England
+Pipistrelle species,1121196,98,Lincolnshire,East Midlands,England
+Pipistrelle species,1120631,97,Derbyshire,East Midlands,England
+Pipistrelle species,5100560,97,Powys,Wales,Wales
+Pipistrelle species,1120906,97,Isle of Wight,South East,England
+Pipistrelle species,1120391,97,West Midlands,West Midlands,England
+Pipistrelle species,1120716,96,Cornwall,South West,England
+Pipistrelle species,5100378,96,Buckinghamshire,South East,England
+Pipistrelle species,2120238,95,Dumfries and Galloway,Scotland,Scotland
+Pipistrelle species,2120216,95,Dumfries and Galloway,Scotland,Scotland
+Pipistrelle species,1120053,95,Isle of Wight,South East,England
+Pipistrelle species,1120356,95,Devon,South West,England
+Pipistrelle species,1120897,95,Oxfordshire,South East,England
+Pipistrelle species,1120483,95,Staffordshire,West Midlands,England
+Pipistrelle species,1120221,94,Wiltshire,South West,England
+Pipistrelle species,1120868,94,Cornwall,South West,England
+Pipistrelle species,1120351,93,Kent,South East,England
+Pipistrelle species,1120529,93,Leicestershire,East Midlands,England
+Pipistrelle species,1120162,93,Hertfordshire,East of England,England
+Pipistrelle species,1120290,93,West Sussex,South East,England
+Pipistrelle species,1120961,92,Nottinghamshire,East Midlands,England
+Pipistrelle species,5100009,92,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120446,92,Warwickshire,West Midlands,England
+Pipistrelle species,1120334,91,Herefordshire,West Midlands,England
+Pipistrelle species,4120027,91,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,5101109,91,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120048,91,East Riding of Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5101065,91,Suffolk,East of England,England
+Pipistrelle species,1120919,90,Norfolk,East of England,England
+Pipistrelle species,1121005,90,Kent,South East,England
+Pipistrelle species,1120951,90,Kent,South East,England
+Pipistrelle species,1121086,89,Lancashire,North West,England
+Pipistrelle species,1120872,89,Lincolnshire,East Midlands,England
+Pipistrelle species,1120367,89,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100434,89,Shropshire,West Midlands,England
+Pipistrelle species,5100055,88,Oxfordshire,South East,England
+Pipistrelle species,1120805,88,Essex,East of England,England
+Pipistrelle species,1120932,88,Cambridgeshire,East of England,England
+Pipistrelle species,2120103,87,Perth and Kinross,Scotland,Scotland
+Pipistrelle species,3120113,86,Monmouthshire,Wales,Wales
+Pipistrelle species,3120076,86,The Vale of Glamorgan,Wales,Wales
+Pipistrelle species,1120296,85,East Sussex,South East,England
+Pipistrelle species,1120972,85,Northamptonshire,East Midlands,England
+Pipistrelle species,1120306,85,Essex,East of England,England
+Pipistrelle species,1120953,84,Kent,South East,England
+Pipistrelle species,5100683,84,Staffordshire,West Midlands,England
+Pipistrelle species,5100344,84,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1120122,84,Leicestershire,East Midlands,England
+Pipistrelle species,3120099,83,Carmarthenshire,Wales,Wales
+Pipistrelle species,5101081,83,Hampshire,South East,England
+Pipistrelle species,1120905,82,Isle of Wight,South East,England
+Pipistrelle species,1120894,82,Cambridgeshire,East of England,England
+Pipistrelle species,1120003,82,Cornwall,South West,England
+Pipistrelle species,5100172,82,Somerset,South West,England
+Pipistrelle species,1120158,81,Suffolk,East of England,England
+Pipistrelle species,1120394,81,Kent,South East,England
+Pipistrelle species,2120040,80,Highland,Scotland,Scotland
+Pipistrelle species,1120063,80,Kent,South East,England
+Pipistrelle species,1121271,80,West Sussex,South East,England
+Pipistrelle species,1120689,80,Redcar and Cleveland,North East,England
+Pipistrelle species,5100707,79,Cornwall,South West,England
+Pipistrelle species,5100259,79,Peterborough,East of England,England
+Pipistrelle species,1120966,78,Lincolnshire,East Midlands,England
+Pipistrelle species,1120486,78,West Midlands,West Midlands,England
+Pipistrelle species,5100772,78,East Lothian,Scotland,Scotland
+Pipistrelle species,1120828,78,Suffolk,East of England,England
+Pipistrelle species,1120620,78,East Riding of Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120026,78,Devon,South West,England
+Pipistrelle species,5100209,78,Staffordshire,West Midlands,England
+Pipistrelle species,1120349,78,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120999,77,Isle of Wight,South East,England
+Pipistrelle species,1120984,77,Essex,East of England,England
+Pipistrelle species,1120793,77,Essex,East of England,England
+Pipistrelle species,1120900,76,Kent,South East,England
+Pipistrelle species,1120685,76,Devon,South West,England
+Pipistrelle species,1121273,76,Essex,East of England,England
+Pipistrelle species,1120749,76,Cumbria,North West,England
+Pipistrelle species,1120070,75,Lancashire,North West,England
+Pipistrelle species,1120859,75,Surrey,South East,England
+Pipistrelle species,5100609,75,Cumbria,North West,England
+Pipistrelle species,1120377,75,Devon,South West,England
+Pipistrelle species,1120256,75,Wiltshire,South West,England
+Pipistrelle species,1120818,75,East Riding of Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100224,74,Essex,East of England,England
+Pipistrelle species,1120806,74,Kent,South East,England
+Pipistrelle species,1120842,74,Hampshire,South East,England
+Pipistrelle species,1120132,73,Hertfordshire,East of England,England
+Pipistrelle species,1120885,73,Lincolnshire,East Midlands,England
+Pipistrelle species,1120055,73,Isle of Wight,South East,England
+Pipistrelle species,1120873,73,Lincolnshire,East Midlands,England
+Pipistrelle species,2120076,73,North Lanarkshire,Scotland,Scotland
+Pipistrelle species,1120095,73,Somerset,South West,England
+Pipistrelle species,2120235,73,Clackmannanshire,Scotland,Scotland
+Pipistrelle species,1121052,72,Lancashire,North West,England
+Pipistrelle species,5100963,72,Devon,South West,England
+Pipistrelle species,1121067,72,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120240,72,Kent,South East,England
+Pipistrelle species,1120101,71,West Sussex,South East,England
+Pipistrelle species,1120532,71,Kent,South East,England
+Pipistrelle species,2120085,71,North Ayrshire,Scotland,Scotland
+Pipistrelle species,1120866,70,Buckinghamshire,South East,England
+Pipistrelle species,1120863,70,Suffolk,East of England,England
+Pipistrelle species,1121000,70,Isle of Wight,South East,England
+Pipistrelle species,1120882,70,North Lincolnshire,Yorkshire and The Humber,England
+Pipistrelle species,1120616,70,Derbyshire,East Midlands,England
+Pipistrelle species,1121085,70,Surrey,South East,England
+Pipistrelle species,1121033,69,Northamptonshire,East Midlands,England
+Pipistrelle species,4120022,69,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120080,69,Norfolk,East of England,England
+Pipistrelle species,1121225,69,Hertfordshire,East of England,England
+Pipistrelle species,1121195,69,Lincolnshire,East Midlands,England
+Pipistrelle species,5100638,69,Isle of Man,Isle of Man,British Crown Dependencies
+Pipistrelle species,5100076,68,Wiltshire,South West,England
+Pipistrelle species,1120145,68,Hertfordshire,East of England,England
+Pipistrelle species,2120071,68,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,5100993,68,Redcar and Cleveland,North East,England
+Pipistrelle species,1120034,68,Gloucestershire,South West,England
+Pipistrelle species,1120614,68,Tyne and Wear,North East,England
+Pipistrelle species,2120047,66,Highland,Scotland,Scotland
+Pipistrelle species,1121077,65,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120191,65,Hampshire,South East,England
+Pipistrelle species,4120025,64,Down,Northern Ireland,Northern Ireland
+Pipistrelle species,1120974,64,West Sussex,South East,England
+Pipistrelle species,1120561,64,Surrey,South East,England
+Pipistrelle species,1120098,63,East Sussex,South East,England
+Pipistrelle species,1120117,63,Merseyside,North West,England
+Pipistrelle species,5100375,63,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120962,63,Suffolk,East of England,England
+Pipistrelle species,1120991,63,Isle of Wight,South East,England
+Pipistrelle species,1120870,62,Lincolnshire,East Midlands,England
+Pipistrelle species,1120662,62,West Berkshire,South East,England
+Pipistrelle species,5101107,61,Norfolk,East of England,England
+Pipistrelle species,1120492,61,Surrey,South East,England
+Pipistrelle species,1120960,61,Leicestershire,East Midlands,England
+Pipistrelle species,1120875,61,Lincolnshire,East Midlands,England
+Pipistrelle species,1121037,61,East Riding of Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120740,61,Leicestershire,East Midlands,England
+Pipistrelle species,1120255,61,Devon,South West,England
+Pipistrelle species,5100566,61,Cornwall,South West,England
+Pipistrelle species,2120084,60,Highland,Scotland,Scotland
+Pipistrelle species,1120310,60,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120902,60,Isle of Wight,South East,England
+Pipistrelle species,3120045,60,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120228,59,Hampshire,South East,England
+Pipistrelle species,1120466,58,Wiltshire,South West,England
+Pipistrelle species,1120295,58,Kent,South East,England
+Pipistrelle species,5100899,58,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120335,57,Devon,South West,England
+Pipistrelle species,1120926,57,Essex,East of England,England
+Pipistrelle species,1120365,57,Wiltshire,South West,England
+Pipistrelle species,5100760,57,Suffolk,East of England,England
+Pipistrelle species,1120877,56,Lincolnshire,East Midlands,England
+Pipistrelle species,3120127,55,Powys,Wales,Wales
+Pipistrelle species,1120988,55,Worcestershire,West Midlands,England
+Pipistrelle species,1121095,55,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5101042,55,Warwickshire,West Midlands,England
+Pipistrelle species,1120844,54,Buckinghamshire,South East,England
+Pipistrelle species,2120057,54,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,2120167,54,Stirling,Scotland,Scotland
+Pipistrelle species,5101129,53,Fermanagh,Northern Ireland,Northern Ireland
+Pipistrelle species,2120020,53,East Lothian,Scotland,Scotland
+Pipistrelle species,2120004,52,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,1120847,52,Leicestershire,East Midlands,England
+Pipistrelle species,5100492,52,Essex,East of England,England
+Pipistrelle species,5100625,52,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120778,52,Hampshire,South East,England
+Pipistrelle species,2120240,52,South Lanarkshire,Scotland,Scotland
+Pipistrelle species,1121180,51,Leicestershire,East Midlands,England
+Pipistrelle species,5100517,51,Magherafelt,Northern Ireland,Northern Ireland
+Pipistrelle species,1120368,51,Lancashire,North West,England
+Pipistrelle species,5100820,50,Norfolk,East of England,England
+Pipistrelle species,1120267,50,Hampshire,South East,England
+Pipistrelle species,1120846,50,Surrey,South East,England
+Pipistrelle species,1120528,49,Leicestershire,East Midlands,England
+Pipistrelle species,1120273,49,Lancashire,North West,England
+Pipistrelle species,1120941,49,Lincolnshire,East Midlands,England
+Pipistrelle species,1121128,49,Hertfordshire,East of England,England
+Pipistrelle species,1120253,49,Wiltshire,South West,England
+Pipistrelle species,1120592,48,Lancashire,North West,England
+Pipistrelle species,1120038,48,Greater Manchester,North West,England
+Pipistrelle species,1120311,48,Hertfordshire,East of England,England
+Pipistrelle species,1120263,48,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120172,47,Shropshire,West Midlands,England
+Pipistrelle species,1120487,47,Staffordshire,West Midlands,England
+Pipistrelle species,1120747,47,Worcestershire,West Midlands,England
+Pipistrelle species,1121157,47,Lincolnshire,East Midlands,England
+Pipistrelle species,1120946,46,Lincolnshire,East Midlands,England
+Pipistrelle species,1120388,46,Devon,South West,England
+Pipistrelle species,2120231,45,East Lothian,Scotland,Scotland
+Pipistrelle species,3120018,45,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120180,45,Lincolnshire,East Midlands,England
+Pipistrelle species,1120672,45,Buckinghamshire,South East,England
+Pipistrelle species,1120219,44,Norfolk,East of England,England
+Pipistrelle species,1121140,43,North East Lincolnshire,Yorkshire and The Humber,England
+Pipistrelle species,2120106,43,North Ayrshire,Scotland,Scotland
+Pipistrelle species,1120393,43,Norfolk,East of England,England
+Pipistrelle species,2120220,43,Moray,Scotland,Scotland
+Pipistrelle species,2120065,43,Fife,Scotland,Scotland
+Pipistrelle species,1120275,43,Cheshire,North West,England
+Pipistrelle species,1121218,43,Cheshire,North West,England
+Pipistrelle species,1120105,43,West Sussex,South East,England
+Pipistrelle species,1120089,43,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120853,42,Suffolk,East of England,England
+Pipistrelle species,1120954,42,Kent,South East,England
+Pipistrelle species,5100919,42,Essex,East of England,England
+Pipistrelle species,1120438,42,Essex,East of England,England
+Pipistrelle species,1120934,41,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120696,41,East Sussex,South East,England
+Pipistrelle species,5100932,41,Dorset,South West,England
+Pipistrelle species,2120218,40,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,5100027,40,Nottinghamshire,East Midlands,England
+Pipistrelle species,1120803,40,Hampshire,South East,England
+Pipistrelle species,1120768,40,Leicestershire,East Midlands,England
+Pipistrelle species,5100807,40,West Berkshire,South East,England
+Pipistrelle species,1120461,39,Northamptonshire,East Midlands,England
+Pipistrelle species,1120992,39,Isle of Wight,South East,England
+Pipistrelle species,1120268,38,Isle of Wight,South East,England
+Pipistrelle species,1120009,38,Cumbria,North West,England
+Pipistrelle species,5100384,38,Somerset,South West,England
+Pipistrelle species,1120996,37,Isle of Wight,South East,England
+Pipistrelle species,3120017,37,Carmarthenshire,Wales,Wales
+Pipistrelle species,1120024,37,Devon,South West,England
+Pipistrelle species,1120940,37,Cambridgeshire,East of England,England
+Pipistrelle species,1120096,37,Somerset,South West,England
+Pipistrelle species,1120883,36,Lincolnshire,East Midlands,England
+Pipistrelle species,1120968,36,Lincolnshire,East Midlands,England
+Pipistrelle species,1121080,36,Surrey,South East,England
+Pipistrelle species,1120279,36,Hampshire,South East,England
+Pipistrelle species,1120748,35,Somerset,South West,England
+Pipistrelle species,1121160,35,County Durham,North East,England
+Pipistrelle species,5100584,35,Cornwall,South West,England
+Pipistrelle species,1121036,34,Greater Manchester,North West,England
+Pipistrelle species,1120489,34,Staffordshire,West Midlands,England
+Pipistrelle species,1120965,33,Lincolnshire,East Midlands,England
+Pipistrelle species,1120481,33,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120341,32,Warwickshire,West Midlands,England
+Pipistrelle species,1120741,31,Leicestershire,East Midlands,England
+Pipistrelle species,1120955,31,Wiltshire,South West,England
+Pipistrelle species,1120163,31,Warwickshire,West Midlands,England
+Pipistrelle species,1120285,31,East Sussex,South East,England
+Pipistrelle species,1120144,30,Lancashire,North West,England
+Pipistrelle species,1121241,30,West Midlands,West Midlands,England
+Pipistrelle species,1120392,30,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120575,30,Northumberland,North East,England
+Pipistrelle species,1120194,30,Lancashire,North West,England
+Pipistrelle species,5100808,30,Caerphilly,Wales,Wales
+Pipistrelle species,1120994,29,Isle of Wight,South East,England
+Pipistrelle species,3120031,29,Carmarthenshire,Wales,Wales
+Pipistrelle species,5100654,29,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,2120069,29,Highland,Scotland,Scotland
+Pipistrelle species,1120982,29,Leicestershire,East Midlands,England
+Pipistrelle species,1121254,28,East Sussex,South East,England
+Pipistrelle species,1120903,28,Isle of Wight,South East,England
+Pipistrelle species,1120930,28,Isle of Wight,South East,England
+Pipistrelle species,1120437,26,Cheshire,North West,England
+Pipistrelle species,5100213,26,Hertfordshire,East of England,England
+Pipistrelle species,1120405,26,Suffolk,East of England,England
+Pipistrelle species,5100843,26,Devon,South West,England
+Pipistrelle species,5100774,26,Kent,South East,England
+Pipistrelle species,1120254,26,Suffolk,East of England,England
+Pipistrelle species,3120103,25,Rhondda Cynon Taff,Wales,Wales
+Pipistrelle species,1120998,24,Isle of Wight,South East,England
+Pipistrelle species,1121096,24,Cumbria,North West,England
+Pipistrelle species,1120297,24,Redcar and Cleveland,North East,England
+Pipistrelle species,1120480,23,East Sussex,South East,England
+Pipistrelle species,1120929,22,Greater Manchester,North West,England
+Pipistrelle species,3120097,22,Conwy,Wales,Wales
+Pipistrelle species,1120476,22,Wiltshire,South West,England
+Pipistrelle species,1121153,22,Somerset,South West,England
+Pipistrelle species,2120154,22,Scottish Borders,Scotland,Scotland
+Pipistrelle species,1120879,21,Lincolnshire,East Midlands,England
+Pipistrelle species,1120069,21,Lancashire,North West,England
+Pipistrelle species,1120305,20,Hertfordshire,East of England,England
+Pipistrelle species,1120109,20,Warwickshire,West Midlands,England
+Pipistrelle species,5100736,20,Worcestershire,West Midlands,England
+Pipistrelle species,1120456,20,Cheshire,North West,England
+Pipistrelle species,1120415,20,County Durham,North East,England
+Pipistrelle species,1120602,20,Northamptonshire,East Midlands,England
+Pipistrelle species,1120159,20,Suffolk,East of England,England
+Pipistrelle species,5100677,19,Northamptonshire,East Midlands,England
+Pipistrelle species,1120967,19,Lincolnshire,East Midlands,England
+Pipistrelle species,1120218,19,Leicestershire,East Midlands,England
+Pipistrelle species,2120221,18,North Lanarkshire,Scotland,Scotland
+Pipistrelle species,1120945,18,Lincolnshire,East Midlands,England
+Pipistrelle species,2120099,18,North Lanarkshire,Scotland,Scotland
+Pipistrelle species,1120640,18,Lincolnshire,East Midlands,England
+Pipistrelle species,1120142,18,Nottinghamshire,East Midlands,England
+Pipistrelle species,1121065,18,Northumberland,North East,England
+Pipistrelle species,1120347,17,Gloucestershire,South West,England
+Pipistrelle species,5100884,17,Merseyside,North West,England
+Pipistrelle species,1120876,16,Lincolnshire,East Midlands,England
+Pipistrelle species,1121058,16,Devon,South West,England
+Pipistrelle species,2120222,15,Glasgow City,Scotland,Scotland
+Pipistrelle species,1120943,15,Lincolnshire,East Midlands,England
+Pipistrelle species,5100594,15,East Sussex,South East,England
+Pipistrelle species,3120095,15,Carmarthenshire,Wales,Wales
+Pipistrelle species,5100306,14,Cornwall,South West,England
+Pipistrelle species,1120607,14,Hertfordshire,East of England,England
+Pipistrelle species,1120252,14,Wiltshire,South West,England
+Pipistrelle species,2120102,14,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,1120050,14,Somerset,South West,England
+Pipistrelle species,1120838,13,Surrey,South East,England
+Pipistrelle species,2120100,13,Highland,Scotland,Scotland
+Pipistrelle species,1120643,13,Nottinghamshire,East Midlands,England
+Pipistrelle species,5100121,13,Cheshire,North West,England
+Pipistrelle species,1121136,13,West Midlands,West Midlands,England
+Pipistrelle species,4120005,13,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,3120068,13,Ceredigion,Wales,Wales
+Pipistrelle species,1120223,12,Hampshire,South East,England
+Pipistrelle species,2120202,12,Highland,Scotland,Scotland
+Pipistrelle species,1120471,12,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,2120119,11,Highland,Scotland,Scotland
+Pipistrelle species,1120944,11,Lincolnshire,East Midlands,England
+Pipistrelle species,1120971,11,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5100003,11,Dorset,South West,England
+Pipistrelle species,1121074,10,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,5101075,10,Gloucestershire,South West,England
+Pipistrelle species,1120455,10,Norfolk,East of England,England
+Pipistrelle species,1120051,10,Isle of Wight,South East,England
+Pipistrelle species,1120715,10,Merseyside,North West,England
+Pipistrelle species,1120977,10,Norfolk,East of England,England
+Pipistrelle species,2120055,9,Argyll and Bute,Scotland,Scotland
+Pipistrelle species,1121229,9,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,2120005,9,Dumfries and Galloway,Scotland,Scotland
+Pipistrelle species,1120626,9,Wiltshire,South West,England
+Pipistrelle species,5100569,9,North Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120857,9,Leicestershire,East Midlands,England
+Pipistrelle species,5100462,9,Conwy,Wales,Wales
+Pipistrelle species,1120052,9,Isle of Wight,South East,England
+Pipistrelle species,1120976,8,Nottinghamshire,East Midlands,England
+Pipistrelle species,2120261,8,South Ayrshire,Scotland,Scotland
+Pipistrelle species,1120781,8,Lancashire,North West,England
+Pipistrelle species,1120800,8,Cambridgeshire,East of England,England
+Pipistrelle species,5100305,8,Cornwall,South West,England
+Pipistrelle species,1121125,8,Gloucestershire,South West,England
+Pipistrelle species,2120015,8,Highland,Scotland,Scotland
+Pipistrelle species,1121116,8,Gloucestershire,South West,England
+Pipistrelle species,1120908,7,Isle of Wight,South East,England
+Pipistrelle species,5100440,7,Cheshire,North West,England
+Pipistrelle species,2120150,7,Highland,Scotland,Scotland
+Pipistrelle species,1120387,7,Derbyshire,East Midlands,England
+Pipistrelle species,5100359,7,Caerphilly,Wales,Wales
+Pipistrelle species,5100882,6,Merseyside,North West,England
+Pipistrelle species,5100511,6,Greater London,London,England
+Pipistrelle species,5100710,6,Greater London,London,England
+Pipistrelle species,1120957,6,Suffolk,East of England,England
+Pipistrelle species,1120409,6,Hampshire,South East,England
+Pipistrelle species,2120151,6,Highland,Scotland,Scotland
+Pipistrelle species,2120092,6,Highland,Scotland,Scotland
+Pipistrelle species,5101062,6,Lancashire,North West,England
+Pipistrelle species,1120535,6,Hertfordshire,East of England,England
+Pipistrelle species,1120705,5,Wiltshire,South West,England
+Pipistrelle species,2120073,5,North Lanarkshire,Scotland,Scotland
+Pipistrelle species,1120102,5,West Sussex,South East,England
+Pipistrelle species,1120396,5,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120464,5,Herefordshire,West Midlands,England
+Pipistrelle species,2120257,5,South Ayrshire,Scotland,Scotland
+Pipistrelle species,1120648,5,York,Yorkshire and The Humber,England
+Pipistrelle species,1120585,5,Oxfordshire,South East,England
+Pipistrelle species,1120479,5,Lancashire,North West,England
+Pipistrelle species,3120081,5,Ceredigion,Wales,Wales
+Pipistrelle species,2120107,4,Aberdeenshire,Scotland,Scotland
+Pipistrelle species,1121057,4,Devon,South West,England
+Pipistrelle species,1120679,4,Shropshire,West Midlands,England
+Pipistrelle species,1121141,4,Cheshire,North West,England
+Pipistrelle species,1121165,4,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120724,4,South Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,1120131,4,Hertfordshire,East of England,England
+Pipistrelle species,5100054,4,Greater London,London,England
+Pipistrelle species,1120956,4,Peterborough,East of England,England
+Pipistrelle species,1120565,4,Wiltshire,South West,England
+Pipistrelle species,1121092,4,West Sussex,South East,England
+Pipistrelle species,3120029,4,Isle of Anglesey,Wales,Wales
+Pipistrelle species,1120378,4,Hertfordshire,East of England,England
+Pipistrelle species,1120599,3,Lancashire,North West,England
+Pipistrelle species,1120358,3,Lancashire,North West,England
+Pipistrelle species,1120836,3,Isle of Wight,South East,England
+Pipistrelle species,1120656,3,Herefordshire,West Midlands,England
+Pipistrelle species,1120912,3,Isle of Wight,South East,England
+Pipistrelle species,2120116,3,Highland,Scotland,Scotland
+Pipistrelle species,1120989,3,Leicestershire,East Midlands,England
+Pipistrelle species,4120032,3,Derry,Northern Ireland,Northern Ireland
+Pipistrelle species,1120319,3,Staffordshire,West Midlands,England
+Pipistrelle species,1120502,3,Staffordshire,West Midlands,England
+Pipistrelle species,1121075,3,West Yorkshire,Yorkshire and The Humber,England
+Pipistrelle species,3120082,3,Powys,Wales,Wales
+Pipistrelle species,1120040,3,Greater Manchester,North West,England
+Pipistrelle species,1120336,3,Somerset,South West,England
+Pipistrelle species,4120021,3,Antrim,Northern Ireland,Northern Ireland
+Pipistrelle species,1120231,3,Hertfordshire,East of England,England
+Pipistrelle species,5100508,3,Kent,South East,England
+Pipistrelle species,1120210,2,Wiltshire,South West,England
+Pipistrelle species,1120190,2,Cheshire,North West,England
+Pipistrelle species,5100098,2,Kent,South East,England
+Pipistrelle species,1120186,2,Leicestershire,East Midlands,England
+Pipistrelle species,1120005,2,Cornwall,South West,England
+Pipistrelle species,5100951,2,Essex,East of England,England
+Pipistrelle species,1120419,2,County Durham,North East,England
+Pipistrelle species,1121263,2,Buckinghamshire,South East,England
+Pipistrelle species,5100719,2,Oxfordshire,South East,England
+Pipistrelle species,5100715,2,Staffordshire,West Midlands,England
+Pipistrelle species,2120117,2,Highland,Scotland,Scotland
+Pipistrelle species,5100543,2,West Dunbartonshire,Scotland,Scotland
+Pipistrelle species,1121001,2,Isle of Wight,South East,England
+Pipistrelle species,1120691,2,Gloucestershire,South West,England
+Pipistrelle species,1120515,2,York,Yorkshire and The Humber,England
+Pipistrelle species,4120023,1,Strabane,Northern Ireland,Northern Ireland
+Pipistrelle species,3120109,1,Bridgend,Wales,Wales
+Pipistrelle species,1120212,1,Hampshire,South East,England
+Pipistrelle species,3120065,1,Torfaen,Wales,Wales
+Pipistrelle species,2120243,1,Orkney Islands,Scotland,Scotland
+Pipistrelle species,2120114,1,Highland,Scotland,Scotland
+Pipistrelle species,1121231,1,Warrington,North West,England
+Pipistrelle species,1121120,1,Buckinghamshire,South East,England
+Pipistrelle species,1120317,1,Cheshire,North West,England
+Pipistrelle species,1120326,1,Hampshire,South East,England
+Pipistrelle species,1120963,1,Oxfordshire,South East,England
+Pipistrelle species,1120917,1,Hampshire,South East,England
+Pipistrelle species,1120789,1,Gloucestershire,South West,England
+Pipistrelle species,1120441,1,Cambridgeshire,East of England,England
+Pipistrelle species,1120571,1,Northumberland,North East,England
+Pipistrelle species,1120078,1,Norfolk,East of England,England
+Serotine,1030083,295,Somerset,South West,England
+Serotine,5100787,255,Wiltshire,South West,England
+Serotine,1030116,200,Hampshire,South East,England
+Serotine,1030131,176,Bath and North East Somerset,South West,England
+Serotine,5100126,168,Somerset,South West,England
+Serotine,5100231,168,Dorset,South West,England
+Serotine,1030006,137,Somerset,South West,England
+Serotine,1030132,127,Oxfordshire,South East,England
+Serotine,1030117,82,Dorset,South West,England
+Serotine,1030110,75,Surrey,South East,England
+Serotine,3030001,72,The Vale of Glamorgan,Wales,Wales
+Serotine,1030055,72,Somerset,South West,England
+Serotine,5101067,70,Cardiff,Wales,Wales
+Serotine,1030013,67,Kent,South East,England
+Serotine,1030004,66,Isle of Wight,South East,England
+Serotine,1030005,64,Isle of Wight,South East,England
+Serotine,5100077,63,Wiltshire,South West,England
+Serotine,1030127,62,Isle of Wight,South East,England
+Serotine,1030041,62,Somerset,South West,England
+Serotine,1030062,60,Hampshire,South East,England
+Serotine,1030051,60,Hampshire,South East,England
+Serotine,5100328,60,Surrey,South East,England
+Serotine,1030043,56,Somerset,South West,England
+Serotine,1030054,56,Surrey,South East,England
+Serotine,1030025,56,East Sussex,South East,England
+Serotine,1030002,55,Hertfordshire,East of England,England
+Serotine,5101055,54,Surrey,South East,England
+Serotine,1030021,49,West Sussex,South East,England
+Serotine,1030135,46,Gloucestershire,South West,England
+Serotine,1030049,46,Surrey,South East,England
+Serotine,1030134,45,West Sussex,South East,England
+Serotine,1030082,43,Dorset,South West,England
+Serotine,5100095,41,East Sussex,South East,England
+Serotine,1030093,40,Wiltshire,South West,England
+Serotine,1030123,40,Kent,South East,England
+Serotine,1030130,40,Dorset,South West,England
+Serotine,1030012,39,Kent,South East,England
+Serotine,1030008,39,Kent,South East,England
+Serotine,1030059,39,Suffolk,East of England,England
+Serotine,1030053,38,Suffolk,East of England,England
+Serotine,5100688,38,Wiltshire,South West,England
+Serotine,1030111,38,Isle of Wight,South East,England
+Serotine,1030121,38,Somerset,South West,England
+Serotine,1030010,38,Kent,South East,England
+Serotine,1030052,36,Dorset,South West,England
+Serotine,1030026,36,West Sussex,South East,England
+Serotine,1030056,35,Somerset,South West,England
+Serotine,1030106,35,Dorset,South West,England
+Serotine,5101016,34,Isle of Wight,South East,England
+Serotine,1030009,34,Kent,South East,England
+Serotine,1030078,33,Hampshire,South East,England
+Serotine,1030024,33,Kent,South East,England
+Serotine,5100065,32,Devon,South West,England
+Serotine,1030122,31,Kent,South East,England
+Serotine,1030033,31,East Sussex,South East,England
+Serotine,5100700,31,Bedfordshire,East of England,England
+Serotine,1030129,31,Somerset,South West,England
+Serotine,1030126,31,Somerset,South West,England
+Serotine,1030105,28,Bath and North East Somerset,South West,England
+Serotine,1030118,27,East Sussex,South East,England
+Serotine,5100624,25,West Sussex,South East,England
+Serotine,1030084,25,Surrey,South East,England
+Serotine,1030030,25,Dorset,South West,England
+Serotine,5100062,25,East Sussex,South East,England
+Serotine,1030050,25,Wiltshire,South West,England
+Serotine,1030018,24,East Sussex,South East,England
+Serotine,1030115,24,Dorset,South West,England
+Serotine,5100046,24,Isle of Wight,South East,England
+Serotine,1030107,24,Somerset,South West,England
+Serotine,1030113,23,Suffolk,East of England,England
+Serotine,1030090,22,Dorset,South West,England
+Serotine,5100053,22,East Sussex,South East,England
+Serotine,1030045,21,Somerset,South West,England
+Serotine,1030125,21,Greater London,London,England
+Serotine,1030020,20,East Sussex,South East,England
+Serotine,1030031,20,East Sussex,South East,England
+Serotine,1030022,19,West Sussex,South East,England
+Serotine,1030029,19,Somerset,South West,England
+Serotine,1030016,18,West Sussex,South East,England
+Serotine,1030099,18,West Sussex,South East,England
+Serotine,1030120,18,Isle of Wight,South East,England
+Serotine,5100379,18,Buckinghamshire,South East,England
+Serotine,1030015,17,Kent,South East,England
+Serotine,1030058,17,Isle of Wight,South East,England
+Serotine,1030060,17,Cambridgeshire,East of England,England
+Serotine,1030023,17,West Sussex,South East,England
+Serotine,1030003,16,Isle of Wight,South East,England
+Serotine,1030085,15,West Sussex,South East,England
+Serotine,1030014,15,Kent,South East,England
+Serotine,1030057,15,Isle of Wight,South East,England
+Serotine,1030001,15,Essex,East of England,England
+Serotine,5100274,14,Bedfordshire,East of England,England
+Serotine,1030119,13,Dorset,South West,England
+Serotine,1030032,13,East Sussex,South East,England
+Serotine,1030133,12,Bedfordshire,East of England,England
+Serotine,1030011,12,Kent,South East,England
+Serotine,1030048,11,Surrey,South East,England
+Serotine,1030112,11,Isle of Wight,South East,England
+Serotine,1030047,11,Somerset,South West,England
+Serotine,1030104,10,Wiltshire,South West,England
+Serotine,1030061,10,Wiltshire,South West,England
+Serotine,1030095,9,Hampshire,South East,England
+Serotine,1030040,8,Surrey,South East,England
+Serotine,1030036,8,Greater London,London,England
+Serotine,1030096,8,Hampshire,South East,England
+Serotine,1030035,7,Kent,South East,England
+Serotine,1030114,6,Surrey,South East,England
+Serotine,1030100,6,Hertfordshire,East of England,England
+Serotine,1030038,6,Norfolk,East of England,England
+Serotine,1030044,4,Bath and North East Somerset,South West,England
+Serotine,1030068,4,Hampshire,South East,England
+Serotine,1030091,3,Surrey,South East,England
+Serotine,1030092,2,Surrey,South East,England
+Serotine,1030034,2,Kent,South East,England
+Serotine,1030072,2,Hampshire,South East,England
+Serotine,1030081,2,Hampshire,South East,England
+Serotine,1030098,2,Kent,South East,England
+Serotine,1030101,2,Surrey,South East,England
+Serotine,1030109,2,Kent,South East,England
+Serotine,1030137,2,Somerset,South West,England
+Serotine,1030103,1,Dorset,South West,England
+Serotine,1030007,1,Kent,South East,England
+Serotine,1030075,1,Hampshire,South East,England
+Serotine,1030019,1,East Sussex,South East,England
+Serotine,1030138,1,East Sussex,South East,England
+Serotine,5101035,1,Kent,South East,England
+Soprano pipistrelle,1121029,2136,Essex,East of England,England
+Soprano pipistrelle,3120032,1534,Conwy,Wales,Wales
+Soprano pipistrelle,3120015,1526,Gwynedd,Wales,Wales
+Soprano pipistrelle,3120062,1450,Pembrokeshire,Wales,Wales
+Soprano pipistrelle,4120004,1429,Antrim,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120026,1385,West Lothian,Scotland,Scotland
+Soprano pipistrelle,5100148,1383,Stirling,Scotland,Scotland
+Soprano pipistrelle,1120452,1382,Herefordshire,West Midlands,England
+Soprano pipistrelle,1121282,1324,Rutland,East Midlands,England
+Soprano pipistrelle,1120059,1320,Kent,South East,England
+Soprano pipistrelle,5100214,1303,Highland,Scotland,Scotland
+Soprano pipistrelle,2120146,1252,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,1121149,1243,Bedfordshire,East of England,England
+Soprano pipistrelle,1121105,1211,Dorset,South West,England
+Soprano pipistrelle,1120126,1208,Devon,South West,England
+Soprano pipistrelle,2120090,1191,Fife,Scotland,Scotland
+Soprano pipistrelle,1120012,1141,Derbyshire,East Midlands,England
+Soprano pipistrelle,2120079,1120,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,5100188,1097,Stirling,Scotland,Scotland
+Soprano pipistrelle,5100403,1070,Cornwall,South West,England
+Soprano pipistrelle,1120641,1067,Wiltshire,South West,England
+Soprano pipistrelle,1120147,1067,Shropshire,West Midlands,England
+Soprano pipistrelle,1121253,1050,Warwickshire,West Midlands,England
+Soprano pipistrelle,5100678,1039,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,1120462,1032,West Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100290,1029,Derbyshire,East Midlands,England
+Soprano pipistrelle,4120010,1021,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1121189,1020,Suffolk,East of England,England
+Soprano pipistrelle,3120038,1015,Powys,Wales,Wales
+Soprano pipistrelle,1121051,1012,Essex,East of England,England
+Soprano pipistrelle,2120198,1001,Stirling,Scotland,Scotland
+Soprano pipistrelle,3120049,958,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,3120027,949,Ceredigion,Wales,Wales
+Soprano pipistrelle,3120028,942,Gwynedd,Wales,Wales
+Soprano pipistrelle,5100236,942,Cumbria,North West,England
+Soprano pipistrelle,1121137,940,Derby,East Midlands,England
+Soprano pipistrelle,2120215,937,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,5100273,910,Lancashire,North West,England
+Soprano pipistrelle,2120060,902,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,2120086,897,Falkirk,Scotland,Scotland
+Soprano pipistrelle,1120986,883,Cumbria,North West,England
+Soprano pipistrelle,2120024,877,Midlothian,Scotland,Scotland
+Soprano pipistrelle,3120085,877,Ceredigion,Wales,Wales
+Soprano pipistrelle,5100800,868,Highland,Scotland,Scotland
+Soprano pipistrelle,3120056,852,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,3120047,850,The Vale of Glamorgan,Wales,Wales
+Soprano pipistrelle,1120011,846,Cumbria,North West,England
+Soprano pipistrelle,1120582,845,Kent,South East,England
+Soprano pipistrelle,1121154,825,Cumbria,North West,England
+Soprano pipistrelle,3120098,823,Powys,Wales,Wales
+Soprano pipistrelle,1120949,813,Dorset,South West,England
+Soprano pipistrelle,1120073,805,Lincolnshire,East Midlands,England
+Soprano pipistrelle,5100023,803,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,1121026,802,Essex,East of England,England
+Soprano pipistrelle,1120301,800,Lancashire,North West,England
+Soprano pipistrelle,2120045,792,South Lanarkshire,Scotland,Scotland
+Soprano pipistrelle,5100465,790,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100194,783,Stirling,Scotland,Scotland
+Soprano pipistrelle,2120082,782,East Lothian,Scotland,Scotland
+Soprano pipistrelle,1121283,769,Rutland,East Midlands,England
+Soprano pipistrelle,3120124,766,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,2120003,764,Stirling,Scotland,Scotland
+Soprano pipistrelle,1121170,764,Essex,East of England,England
+Soprano pipistrelle,2120080,758,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,5100137,742,Kent,South East,England
+Soprano pipistrelle,5100312,742,South Lanarkshire,Scotland,Scotland
+Soprano pipistrelle,1121002,730,South Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100197,728,Devon,South West,England
+Soprano pipistrelle,1120202,709,Hertfordshire,East of England,England
+Soprano pipistrelle,5100411,702,Inverclyde,Scotland,Scotland
+Soprano pipistrelle,5100078,694,Rutland,East Midlands,England
+Soprano pipistrelle,1121027,691,Essex,East of England,England
+Soprano pipistrelle,3120050,688,Ceredigion,Wales,Wales
+Soprano pipistrelle,1121250,680,West Midlands,West Midlands,England
+Soprano pipistrelle,2120033,676,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,2120152,675,Stirling,Scotland,Scotland
+Soprano pipistrelle,1120880,674,Lincolnshire,East Midlands,England
+Soprano pipistrelle,3120002,666,Gwynedd,Wales,Wales
+Soprano pipistrelle,5100559,656,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,2120072,654,South Lanarkshire,Scotland,Scotland
+Soprano pipistrelle,5100185,652,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120049,648,Stirling,Scotland,Scotland
+Soprano pipistrelle,5100057,643,Herefordshire,West Midlands,England
+Soprano pipistrelle,5100651,642,Cambridgeshire,East of England,England
+Soprano pipistrelle,2120194,624,West Lothian,Scotland,Scotland
+Soprano pipistrelle,5100823,616,Powys,Wales,Wales
+Soprano pipistrelle,5100196,612,Shropshire,West Midlands,England
+Soprano pipistrelle,1120389,610,Suffolk,East of England,England
+Soprano pipistrelle,3120119,604,Pembrokeshire,Wales,Wales
+Soprano pipistrelle,1120068,603,Kent,South East,England
+Soprano pipistrelle,5100430,603,Lincolnshire,East Midlands,England
+Soprano pipistrelle,5100109,602,Powys,Wales,Wales
+Soprano pipistrelle,1120665,600,Herefordshire,West Midlands,England
+Soprano pipistrelle,5100975,598,Wiltshire,South West,England
+Soprano pipistrelle,3120122,596,Gwynedd,Wales,Wales
+Soprano pipistrelle,5100503,594,Lancashire,North West,England
+Soprano pipistrelle,5101015,594,West Sussex,South East,England
+Soprano pipistrelle,1120288,589,Somerset,South West,England
+Soprano pipistrelle,5100033,589,Cumbria,North West,England
+Soprano pipistrelle,2120200,587,Stirling,Scotland,Scotland
+Soprano pipistrelle,4120028,583,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120023,578,Devon,South West,England
+Soprano pipistrelle,5100578,571,West Berkshire,South East,England
+Soprano pipistrelle,1120436,570,Cheshire,North West,England
+Soprano pipistrelle,1120151,570,Lancashire,North West,England
+Soprano pipistrelle,2120211,569,Glasgow City,Scotland,Scotland
+Soprano pipistrelle,5100029,569,Shropshire,West Midlands,England
+Soprano pipistrelle,2120153,566,Stirling,Scotland,Scotland
+Soprano pipistrelle,5100058,564,Lancashire,North West,England
+Soprano pipistrelle,1121048,564,Essex,East of England,England
+Soprano pipistrelle,1121193,557,Hampshire,South East,England
+Soprano pipistrelle,1120036,553,Greater London,London,England
+Soprano pipistrelle,1121121,547,Gloucestershire,South West,England
+Soprano pipistrelle,5100698,547,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120011,546,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,1121270,545,Worcestershire,West Midlands,England
+Soprano pipistrelle,1121204,544,Cumbria,North West,England
+Soprano pipistrelle,2120141,543,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1120490,542,Staffordshire,West Midlands,England
+Soprano pipistrelle,2120174,542,City of Edinburgh,Scotland,Scotland
+Soprano pipistrelle,1121209,541,Surrey,South East,England
+Soprano pipistrelle,1120813,538,West Midlands,West Midlands,England
+Soprano pipistrelle,1121011,538,Cumbria,North West,England
+Soprano pipistrelle,5100381,530,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,1121110,526,Rutland,East Midlands,England
+Soprano pipistrelle,5100464,518,Wiltshire,South West,England
+Soprano pipistrelle,3120126,515,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,5100531,510,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120050,504,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,2120027,502,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1121151,502,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120001,501,Stirling,Scotland,Scotland
+Soprano pipistrelle,1121239,500,Devon,South West,England
+Soprano pipistrelle,5100900,495,Wokingham,South East,England
+Soprano pipistrelle,2120097,489,West Dunbartonshire,Scotland,Scotland
+Soprano pipistrelle,5100117,489,Powys,Wales,Wales
+Soprano pipistrelle,1120654,488,Kent,South East,England
+Soprano pipistrelle,1120538,487,East Sussex,South East,England
+Soprano pipistrelle,1120525,487,Hampshire,South East,England
+Soprano pipistrelle,5100400,487,Derry,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120302,486,Lancashire,North West,England
+Soprano pipistrelle,1120603,486,West Sussex,South East,England
+Soprano pipistrelle,4120011,485,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,5100301,481,East Lothian,Scotland,Scotland
+Soprano pipistrelle,1120710,480,Cumbria,North West,England
+Soprano pipistrelle,1120758,479,Essex,East of England,England
+Soprano pipistrelle,5100869,474,East Lothian,Scotland,Scotland
+Soprano pipistrelle,1120708,473,Rutland,East Midlands,England
+Soprano pipistrelle,2120212,470,Glasgow City,Scotland,Scotland
+Soprano pipistrelle,1120116,467,South Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,3120026,467,Powys,Wales,Wales
+Soprano pipistrelle,5100364,466,Fife,Scotland,Scotland
+Soprano pipistrelle,1120002,464,Buckinghamshire,South East,England
+Soprano pipistrelle,1120534,458,Herefordshire,West Midlands,England
+Soprano pipistrelle,5100610,452,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,2120129,452,Stirling,Scotland,Scotland
+Soprano pipistrelle,1121251,451,Lancashire,North West,England
+Soprano pipistrelle,5100170,451,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120792,451,Shropshire,West Midlands,England
+Soprano pipistrelle,5100496,450,Norfolk,East of England,England
+Soprano pipistrelle,1121006,450,West Berkshire,South East,England
+Soprano pipistrelle,5100101,448,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,1120015,447,Derbyshire,East Midlands,England
+Soprano pipistrelle,5100372,440,Shropshire,West Midlands,England
+Soprano pipistrelle,5100355,438,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1121018,435,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100167,434,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,5100410,432,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,2120253,429,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,1120176,426,Greater London,London,England
+Soprano pipistrelle,5100282,426,Tyne and Wear,North East,England
+Soprano pipistrelle,1120784,425,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100007,425,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100136,423,Worcestershire,West Midlands,England
+Soprano pipistrelle,5100645,422,Cumbria,North West,England
+Soprano pipistrelle,1120937,422,Herefordshire,West Midlands,England
+Soprano pipistrelle,1120503,421,Herefordshire,West Midlands,England
+Soprano pipistrelle,1120855,420,Lancashire,North West,England
+Soprano pipistrelle,2120143,419,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,2120237,419,East Lothian,Scotland,Scotland
+Soprano pipistrelle,5100377,419,Cumbria,North West,England
+Soprano pipistrelle,1120814,417,Surrey,South East,England
+Soprano pipistrelle,1121206,417,Leicestershire,East Midlands,England
+Soprano pipistrelle,1120404,416,Greater London,London,England
+Soprano pipistrelle,3120088,415,Ceredigion,Wales,Wales
+Soprano pipistrelle,1120811,413,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120315,412,Shropshire,West Midlands,England
+Soprano pipistrelle,5100163,410,Nottingham,East Midlands,England
+Soprano pipistrelle,3120084,410,Pembrokeshire,Wales,Wales
+Soprano pipistrelle,1121122,410,Gloucestershire,South West,England
+Soprano pipistrelle,1120507,407,Wiltshire,South West,England
+Soprano pipistrelle,1121117,404,East Riding of Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,2120166,401,East Lothian,Scotland,Scotland
+Soprano pipistrelle,5100352,400,Lancashire,North West,England
+Soprano pipistrelle,1120920,397,Hampshire,South East,England
+Soprano pipistrelle,5100267,395,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120184,394,Stirling,Scotland,Scotland
+Soprano pipistrelle,2120135,388,East Lothian,Scotland,Scotland
+Soprano pipistrelle,1121099,387,Lancashire,North West,England
+Soprano pipistrelle,3120116,385,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,2120081,385,North Ayrshire,Scotland,Scotland
+Soprano pipistrelle,2120021,383,West Lothian,Scotland,Scotland
+Soprano pipistrelle,1121252,381,Greater London,London,England
+Soprano pipistrelle,5100140,378,Derbyshire,East Midlands,England
+Soprano pipistrelle,1120099,377,East Sussex,South East,England
+Soprano pipistrelle,1121213,377,Lancashire,North West,England
+Soprano pipistrelle,3120118,376,Cardiff,Wales,Wales
+Soprano pipistrelle,1121061,375,Greater London,London,England
+Soprano pipistrelle,5101053,374,Shropshire,West Midlands,England
+Soprano pipistrelle,1120569,373,Northumberland,North East,England
+Soprano pipistrelle,3120064,373,Monmouthshire,Wales,Wales
+Soprano pipistrelle,5100047,373,Worcestershire,West Midlands,England
+Soprano pipistrelle,5100872,370,Buckinghamshire,South East,England
+Soprano pipistrelle,2120191,369,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,1120598,366,West Berkshire,South East,England
+Soprano pipistrelle,5101008,365,Highland,Scotland,Scotland
+Soprano pipistrelle,2120225,365,West Lothian,Scotland,Scotland
+Soprano pipistrelle,1121238,362,Gloucestershire,South West,England
+Soprano pipistrelle,2120028,359,East Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1121257,354,Devon,South West,England
+Soprano pipistrelle,1120072,353,Rutland,East Midlands,England
+Soprano pipistrelle,4120020,351,Down,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120111,350,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,3120110,349,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,1120112,348,North Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100413,347,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100071,347,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120209,347,Fife,Scotland,Scotland
+Soprano pipistrelle,1120570,346,Northumberland,North East,England
+Soprano pipistrelle,5100238,346,Pembrokeshire,Wales,Wales
+Soprano pipistrelle,1121176,346,Dorset,South West,England
+Soprano pipistrelle,2120025,344,Midlothian,Scotland,Scotland
+Soprano pipistrelle,1121100,344,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120074,343,Rutland,East Midlands,England
+Soprano pipistrelle,5100877,340,Norfolk,East of England,England
+Soprano pipistrelle,1120639,338,Suffolk,East of England,England
+Soprano pipistrelle,1120313,336,West Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,1120433,336,Cumbria,North West,England
+Soprano pipistrelle,5100895,335,Hampshire,South East,England
+Soprano pipistrelle,2120108,330,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,2120160,329,Falkirk,Scotland,Scotland
+Soprano pipistrelle,1121035,329,Herefordshire,West Midlands,England
+Soprano pipistrelle,1121073,328,Oxfordshire,South East,England
+Soprano pipistrelle,2120263,326,Aberdeen City,Scotland,Scotland
+Soprano pipistrelle,1120205,325,Greater London,London,England
+Soprano pipistrelle,1121042,325,Dorset,South West,England
+Soprano pipistrelle,1120100,324,East Sussex,South East,England
+Soprano pipistrelle,1121019,322,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120127,320,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,4120037,320,Antrim,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120796,317,Devon,South West,England
+Soprano pipistrelle,5100965,316,Norfolk,East of England,England
+Soprano pipistrelle,1121072,315,Oxfordshire,South East,England
+Soprano pipistrelle,1121022,315,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1121078,315,Kent,South East,England
+Soprano pipistrelle,5100398,313,Derbyshire,East Midlands,England
+Soprano pipistrelle,1120157,313,Oxfordshire,South East,England
+Soprano pipistrelle,1120060,312,Kent,South East,England
+Soprano pipistrelle,5100546,312,Hampshire,South East,England
+Soprano pipistrelle,2120171,312,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,1120638,312,Suffolk,East of England,England
+Soprano pipistrelle,1120506,311,Norfolk,East of England,England
+Soprano pipistrelle,5100552,310,West Sussex,South East,England
+Soprano pipistrelle,1121118,310,West Berkshire,South East,England
+Soprano pipistrelle,3120105,309,Conwy,Wales,Wales
+Soprano pipistrelle,1121049,309,Essex,East of England,England
+Soprano pipistrelle,5100848,307,Cambridgeshire,East of England,England
+Soprano pipistrelle,1120601,306,Cumbria,North West,England
+Soprano pipistrelle,1120324,305,Cumbria,North West,England
+Soprano pipistrelle,3120046,304,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,5100368,304,Cumbria,North West,England
+Soprano pipistrelle,1120043,303,Hertfordshire,East of England,England
+Soprano pipistrelle,1120184,301,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100461,301,Down,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120183,300,Stirling,Scotland,Scotland
+Soprano pipistrelle,5100416,300,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100826,300,Northamptonshire,East Midlands,England
+Soprano pipistrelle,1120318,299,Suffolk,East of England,England
+Soprano pipistrelle,5100583,298,Norfolk,East of England,England
+Soprano pipistrelle,3120036,296,Rhondda Cynon Taff,Wales,Wales
+Soprano pipistrelle,1121245,295,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1121109,295,Rutland,East Midlands,England
+Soprano pipistrelle,5100730,295,Lancashire,North West,England
+Soprano pipistrelle,5100938,294,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,3120024,292,Gwynedd,Wales,Wales
+Soprano pipistrelle,2120017,291,Highland,Scotland,Scotland
+Soprano pipistrelle,3120034,291,Isle of Anglesey,Wales,Wales
+Soprano pipistrelle,1120236,287,West Berkshire,South East,England
+Soprano pipistrelle,1121131,287,Lincolnshire,East Midlands,England
+Soprano pipistrelle,1120025,284,Devon,South West,England
+Soprano pipistrelle,1120783,283,Dorset,South West,England
+Soprano pipistrelle,5100915,282,Cambridgeshire,East of England,England
+Soprano pipistrelle,2120088,281,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,5100079,280,Pembrokeshire,Wales,Wales
+Soprano pipistrelle,1121114,279,Dorset,South West,England
+Soprano pipistrelle,5100285,278,Suffolk,East of England,England
+Soprano pipistrelle,1121021,277,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120107,275,West Sussex,South East,England
+Soprano pipistrelle,5100990,271,Surrey,South East,England
+Soprano pipistrelle,3120023,269,Gwynedd,Wales,Wales
+Soprano pipistrelle,3120061,268,Ceredigion,Wales,Wales
+Soprano pipistrelle,5100913,267,Ceredigion,Wales,Wales
+Soprano pipistrelle,1121054,267,Gloucestershire,South West,England
+Soprano pipistrelle,2120051,265,West Lothian,Scotland,Scotland
+Soprano pipistrelle,1120987,265,Kent,South East,England
+Soprano pipistrelle,5100783,264,Down,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120241,262,Oxfordshire,South East,England
+Soprano pipistrelle,3120051,262,Gwynedd,Wales,Wales
+Soprano pipistrelle,3120069,262,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,1120010,261,Cumbria,North West,England
+Soprano pipistrelle,5100910,255,Dorset,South West,England
+Soprano pipistrelle,1121013,255,Essex,East of England,England
+Soprano pipistrelle,1121093,254,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120036,252,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,1120756,250,Hertfordshire,East of England,England
+Soprano pipistrelle,1120701,249,Greater London,London,England
+Soprano pipistrelle,5100404,249,Devon,South West,England
+Soprano pipistrelle,2120245,249,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,1121129,248,Oxfordshire,South East,England
+Soprano pipistrelle,2120034,248,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,3120090,247,Rhondda Cynon Taff,Wales,Wales
+Soprano pipistrelle,5100207,247,Hampshire,South East,England
+Soprano pipistrelle,5100064,245,West Sussex,South East,England
+Soprano pipistrelle,5100408,244,Cheshire East,North West,England
+Soprano pipistrelle,1121016,244,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120095,243,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,5100500,239,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120224,238,Kent,South East,England
+Soprano pipistrelle,1120649,237,East Sussex,South East,England
+Soprano pipistrelle,5100162,237,Nottingham,East Midlands,England
+Soprano pipistrelle,4120029,235,Strabane,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120543,233,Devon,South West,England
+Soprano pipistrelle,2120122,230,Stirling,Scotland,Scotland
+Soprano pipistrelle,5100442,230,Bridgend,Wales,Wales
+Soprano pipistrelle,2120043,229,Highland,Scotland,Scotland
+Soprano pipistrelle,5100790,229,Cumbria,North West,England
+Soprano pipistrelle,2120010,228,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,1121050,228,Essex,East of England,England
+Soprano pipistrelle,3120008,228,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,5100889,228,Norfolk,East of England,England
+Soprano pipistrelle,1120766,226,Cumbria,North West,England
+Soprano pipistrelle,1120299,225,Kent,South East,England
+Soprano pipistrelle,5100208,224,Tyne and Wear,North East,England
+Soprano pipistrelle,1121134,222,City of Bristol,South West,England
+Soprano pipistrelle,1120286,221,Oxfordshire,South East,England
+Soprano pipistrelle,4120034,221,Down,Northern Ireland,Northern Ireland
+Soprano pipistrelle,5100314,221,North Lincolnshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100874,219,Ceredigion,Wales,Wales
+Soprano pipistrelle,1120067,217,Kent,South East,England
+Soprano pipistrelle,1120332,217,Dorset,South West,England
+Soprano pipistrelle,1121280,216,Warwickshire,West Midlands,England
+Soprano pipistrelle,5100069,214,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100346,213,Devon,South West,England
+Soprano pipistrelle,1121167,213,Devon,South West,England
+Soprano pipistrelle,1120322,212,Hampshire,South East,England
+Soprano pipistrelle,2120254,211,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,5100592,211,West Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,1120630,210,Devon,South West,England
+Soprano pipistrelle,5100332,205,Surrey,South East,England
+Soprano pipistrelle,1120031,204,Essex,East of England,England
+Soprano pipistrelle,2120175,203,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,1121015,203,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1121181,202,Rutland,East Midlands,England
+Soprano pipistrelle,1120457,202,Lincolnshire,East Midlands,England
+Soprano pipistrelle,5100577,202,Cumbria,North West,England
+Soprano pipistrelle,2120083,202,East Lothian,Scotland,Scotland
+Soprano pipistrelle,5100050,202,West Berkshire,South East,England
+Soprano pipistrelle,2120149,201,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,1121124,200,East Riding of Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100957,200,Wiltshire,South West,England
+Soprano pipistrelle,5100902,198,Buckinghamshire,South East,England
+Soprano pipistrelle,2120165,197,Highland,Scotland,Scotland
+Soprano pipistrelle,5100897,193,Fife,Scotland,Scotland
+Soprano pipistrelle,5100941,193,West Sussex,South East,England
+Soprano pipistrelle,5100830,192,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120193,191,Greater London,London,England
+Soprano pipistrelle,1120588,191,Hertfordshire,East of England,England
+Soprano pipistrelle,1121088,191,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120251,190,Surrey,South East,England
+Soprano pipistrelle,5100149,189,Kent,South East,England
+Soprano pipistrelle,1121138,189,Bedfordshire,East of England,England
+Soprano pipistrelle,2120124,188,Highland,Scotland,Scotland
+Soprano pipistrelle,1121279,186,West Midlands,West Midlands,England
+Soprano pipistrelle,1120362,186,Oxfordshire,South East,England
+Soprano pipistrelle,5100365,185,Worcestershire,West Midlands,England
+Soprano pipistrelle,1121017,184,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100831,183,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100597,182,Cumbria,North West,England
+Soprano pipistrelle,1120734,182,Suffolk,East of England,England
+Soprano pipistrelle,5100637,181,Isle of Man,Isle of Man,British Crown Dependencies
+Soprano pipistrelle,2120162,179,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1121240,178,Lancashire,North West,England
+Soprano pipistrelle,1120835,178,Staffordshire,West Midlands,England
+Soprano pipistrelle,1120574,177,East Riding of Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,2120227,176,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,2120061,175,Highland,Scotland,Scotland
+Soprano pipistrelle,2120059,175,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,2120161,174,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1121184,173,Gloucestershire,South West,England
+Soprano pipistrelle,1120467,173,County Durham,North East,England
+Soprano pipistrelle,1120719,173,Kent,South East,England
+Soprano pipistrelle,1120721,171,Hertfordshire,East of England,England
+Soprano pipistrelle,5100070,170,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100157,169,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120723,169,Wiltshire,South West,England
+Soprano pipistrelle,5101038,168,Devon,South West,England
+Soprano pipistrelle,1120303,167,Hertfordshire,East of England,England
+Soprano pipistrelle,4120002,165,Antrim,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120328,164,Kent,South East,England
+Soprano pipistrelle,1121211,164,West Midlands,West Midlands,England
+Soprano pipistrelle,5100166,164,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,3120048,162,Ceredigion,Wales,Wales
+Soprano pipistrelle,1121177,162,Gloucestershire,South West,England
+Soprano pipistrelle,5101014,162,Buckinghamshire,South East,England
+Soprano pipistrelle,1121097,161,Hertfordshire,East of England,England
+Soprano pipistrelle,5100311,159,Surrey,South East,England
+Soprano pipistrelle,1121237,157,Kent,South East,England
+Soprano pipistrelle,5100758,157,Surrey,South East,England
+Soprano pipistrelle,3120106,155,Cardiff,Wales,Wales
+Soprano pipistrelle,5100151,153,Peterborough,East of England,England
+Soprano pipistrelle,5100992,153,Cheshire,North West,England
+Soprano pipistrelle,3120059,152,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,3120134,152,Isle of Anglesey,Wales,Wales
+Soprano pipistrelle,3120077,149,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,1120745,148,Norfolk,East of England,England
+Soprano pipistrelle,5100974,148,Rhondda Cynon Taff,Wales,Wales
+Soprano pipistrelle,1120104,147,West Sussex,South East,England
+Soprano pipistrelle,5101086,147,Reading,South East,England
+Soprano pipistrelle,1120431,146,Somerset,South West,England
+Soprano pipistrelle,1121004,146,Kent,South East,England
+Soprano pipistrelle,1120057,145,Isle of Wight,South East,England
+Soprano pipistrelle,5100887,145,West Midlands,West Midlands,England
+Soprano pipistrelle,1121219,145,Surrey,South East,England
+Soprano pipistrelle,5101085,144,Dorset,South West,England
+Soprano pipistrelle,3120041,144,Powys,Wales,Wales
+Soprano pipistrelle,1120316,143,Leicestershire,East Midlands,England
+Soprano pipistrelle,5100107,141,Suffolk,East of England,England
+Soprano pipistrelle,1120837,140,Norfolk,East of England,England
+Soprano pipistrelle,3120007,140,Ceredigion,Wales,Wales
+Soprano pipistrelle,1121201,138,Lincolnshire,East Midlands,England
+Soprano pipistrelle,2120193,138,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,1120659,138,Hertfordshire,East of England,England
+Soprano pipistrelle,5100288,137,Bridgend,Wales,Wales
+Soprano pipistrelle,1121187,137,Kent,South East,England
+Soprano pipistrelle,1120670,136,Herefordshire,West Midlands,England
+Soprano pipistrelle,1121040,135,Greater London,London,England
+Soprano pipistrelle,5100918,135,Windsor and Maidenhead,South East,England
+Soprano pipistrelle,5100051,134,North Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,1121007,133,Devon,South West,England
+Soprano pipistrelle,5100019,132,Worcestershire,West Midlands,England
+Soprano pipistrelle,5100506,130,Cumbria,North West,England
+Soprano pipistrelle,1120281,130,Buckinghamshire,South East,England
+Soprano pipistrelle,1120634,130,Leicestershire,East Midlands,England
+Soprano pipistrelle,1120342,129,Hertfordshire,East of England,England
+Soprano pipistrelle,1121278,125,Worcestershire,West Midlands,England
+Soprano pipistrelle,5100203,125,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120787,125,Hertfordshire,East of England,England
+Soprano pipistrelle,1120113,124,North Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,1120597,123,Greater London,London,England
+Soprano pipistrelle,5100292,123,East Sussex,South East,England
+Soprano pipistrelle,5100143,123,City of Bristol,South West,England
+Soprano pipistrelle,2120077,120,North Ayrshire,Scotland,Scotland
+Soprano pipistrelle,5100133,119,Isle of Anglesey,Wales,Wales
+Soprano pipistrelle,5100570,119,Cumbria,North West,England
+Soprano pipistrelle,5100921,118,Hertfordshire,East of England,England
+Soprano pipistrelle,1120206,118,Warwickshire,West Midlands,England
+Soprano pipistrelle,1120699,114,Cornwall,South West,England
+Soprano pipistrelle,5100640,113,Somerset,South West,England
+Soprano pipistrelle,1120008,111,Cumbria,North West,England
+Soprano pipistrelle,1120309,110,Cambridgeshire,East of England,England
+Soprano pipistrelle,3120083,110,Bridgend,Wales,Wales
+Soprano pipistrelle,1121224,109,Buckinghamshire,South East,England
+Soprano pipistrelle,1121169,108,Gloucestershire,South West,England
+Soprano pipistrelle,1120448,107,Dorset,South West,England
+Soprano pipistrelle,1121082,107,Gloucestershire,South West,England
+Soprano pipistrelle,5100176,105,Fife,Scotland,Scotland
+Soprano pipistrelle,5100832,104,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120094,104,Somerset,South West,England
+Soprano pipistrelle,2120136,100,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,5100183,100,Bridgend,Wales,Wales
+Soprano pipistrelle,5100056,99,Warwickshire,West Midlands,England
+Soprano pipistrelle,1120544,97,Cambridgeshire,East of England,England
+Soprano pipistrelle,5101017,96,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,3120054,94,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,5100227,94,Devon,South West,England
+Soprano pipistrelle,5101068,91,Merseyside,North West,England
+Soprano pipistrelle,2120186,91,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,2120007,90,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,5100529,90,Kent,South East,England
+Soprano pipistrelle,5100367,89,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,5100756,89,Norfolk,East of England,England
+Soprano pipistrelle,1120402,86,Norfolk,East of England,England
+Soprano pipistrelle,5100122,85,Derbyshire,East Midlands,England
+Soprano pipistrelle,5100516,85,Magherafelt,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120170,82,Wiltshire,South West,England
+Soprano pipistrelle,5100966,82,West Berkshire,South East,England
+Soprano pipistrelle,5100487,81,Stirling,Scotland,Scotland
+Soprano pipistrelle,1121246,81,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1121003,79,South Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100883,78,Merseyside,North West,England
+Soprano pipistrelle,1120548,76,County Durham,North East,England
+Soprano pipistrelle,3120131,75,Carmarthenshire,Wales,Wales
+Soprano pipistrelle,1120076,74,Leicestershire,East Midlands,England
+Soprano pipistrelle,2120009,73,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,5101090,72,Cardiff,Wales,Wales
+Soprano pipistrelle,5100169,72,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120398,71,Hertfordshire,East of England,England
+Soprano pipistrelle,5100775,68,Worcestershire,West Midlands,England
+Soprano pipistrelle,1120682,68,Devon,South West,England
+Soprano pipistrelle,1120822,68,Herefordshire,West Midlands,England
+Soprano pipistrelle,1121089,67,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,2120181,67,Midlothian,Scotland,Scotland
+Soprano pipistrelle,5100257,67,Lancashire,North West,England
+Soprano pipistrelle,2120158,66,Angus,Scotland,Scotland
+Soprano pipistrelle,5100266,66,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,1120013,64,Derbyshire,East Midlands,England
+Soprano pipistrelle,1120732,62,Greater London,London,England
+Soprano pipistrelle,5100706,61,Oxfordshire,South East,England
+Soprano pipistrelle,5100291,60,Surrey,South East,England
+Soprano pipistrelle,1120911,59,Isle of Wight,South East,England
+Soprano pipistrelle,2120251,59,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,1120731,59,Greater London,London,England
+Soprano pipistrelle,5100175,59,Perth and Kinross,Scotland,Scotland
+Soprano pipistrelle,2120207,58,Highland,Scotland,Scotland
+Soprano pipistrelle,1120298,57,West Sussex,South East,England
+Soprano pipistrelle,5100972,56,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,2120120,56,Highland,Scotland,Scotland
+Soprano pipistrelle,3120093,55,Gwynedd,Wales,Wales
+Soprano pipistrelle,1121262,52,Worcestershire,West Midlands,England
+Soprano pipistrelle,5100498,51,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100879,50,Angus,Scotland,Scotland
+Soprano pipistrelle,2120006,47,Dumfries and Galloway,Scotland,Scotland
+Soprano pipistrelle,5100415,46,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,5100668,43,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1121214,42,Hertfordshire,East of England,England
+Soprano pipistrelle,5100269,42,North Lincolnshire,Yorkshire and The Humber,England
+Soprano pipistrelle,5100356,40,Fermanagh,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120249,38,Renfrewshire,Scotland,Scotland
+Soprano pipistrelle,1120044,37,Hertfordshire,East of England,England
+Soprano pipistrelle,2120256,32,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,2120112,29,Scottish Borders,Scotland,Scotland
+Soprano pipistrelle,1121091,29,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,1120323,28,Isle of Wight,South East,England
+Soprano pipistrelle,2120246,25,Highland,Scotland,Scotland
+Soprano pipistrelle,2120044,23,Highland,Scotland,Scotland
+Soprano pipistrelle,3120043,22,Powys,Wales,Wales
+Soprano pipistrelle,5100265,22,Highland,Scotland,Scotland
+Soprano pipistrelle,1120215,18,Warwickshire,West Midlands,England
+Soprano pipistrelle,2120192,18,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,5100850,17,East Riding of Yorkshire,Yorkshire and The Humber,England
+Soprano pipistrelle,2120096,17,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,2120008,16,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,2120182,16,Midlothian,Scotland,Scotland
+Soprano pipistrelle,1120160,16,Warwickshire,West Midlands,England
+Soprano pipistrelle,1121104,15,Norfolk,East of England,England
+Soprano pipistrelle,1121043,13,Dorset,South West,England
+Soprano pipistrelle,4120036,13,Derry,Northern Ireland,Northern Ireland
+Soprano pipistrelle,2120259,13,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,1120030,12,Essex,East of England,England
+Soprano pipistrelle,1120235,12,Norfolk,East of England,England
+Soprano pipistrelle,1120586,11,West Berkshire,South East,England
+Soprano pipistrelle,5100539,9,Leicestershire,East Midlands,England
+Soprano pipistrelle,5100448,9,Windsor and Maidenhead,South East,England
+Soprano pipistrelle,2120012,9,Aberdeenshire,Scotland,Scotland
+Soprano pipistrelle,1121260,8,Cumbria,North West,England
+Soprano pipistrelle,1121056,8,Rutland,East Midlands,England
+Soprano pipistrelle,5100376,7,Derry,Northern Ireland,Northern Ireland
+Soprano pipistrelle,5100862,6,Oxfordshire,South East,England
+Soprano pipistrelle,3120013,6,Isle of Anglesey,Wales,Wales
+Soprano pipistrelle,2120258,6,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,5100483,6,Northamptonshire,East Midlands,England
+Soprano pipistrelle,2120252,6,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,1120541,6,Devon,South West,England
+Soprano pipistrelle,5100573,5,Lincolnshire,East Midlands,England
+Soprano pipistrelle,1120338,5,Herefordshire,West Midlands,England
+Soprano pipistrelle,5100574,5,South Ayrshire,Scotland,Scotland
+Soprano pipistrelle,5100187,5,Herefordshire,West Midlands,England
+Soprano pipistrelle,5100563,4,Powys,Wales,Wales
+Soprano pipistrelle,1121090,4,Nottinghamshire,East Midlands,England
+Soprano pipistrelle,3120035,4,Gwynedd,Wales,Wales
+Soprano pipistrelle,2120189,4,Argyll and Bute,Scotland,Scotland
+Soprano pipistrelle,1120770,3,Leicestershire,East Midlands,England
+Soprano pipistrelle,1121039,3,Greater London,London,England
+Soprano pipistrelle,5100926,3,Glasgow City,Scotland,Scotland
+Soprano pipistrelle,1121145,2,Cumbria,North West,England
+Soprano pipistrelle,5100481,1,Cheshire East,North West,England
+Soprano pipistrelle,1120849,1,Northumberland,North East,England
+Soprano pipistrelle,5100590,1,Greater London,London,England
+Whiskered bat,1080004,99,Dorset,South West,England
+Whiskered bat,5100585,95,South Yorkshire,Yorkshire and The Humber,England
+Whiskered bat,1080001,70,Isle of Wight,South East,England
+Whiskered bat,1080006,59,Lincolnshire,East Midlands,England
+Whiskered bat,5100553,54,West Sussex,South East,England
+Whiskered bat,5100554,51,West Sussex,South East,England
+Whiskered bat,5100752,41,Devon,South West,England
+Whiskered bat,5100423,39,Surrey,South East,England
+Whiskered bat,5100627,37,Glasgow City,Scotland,Scotland
+Whiskered bat,1080005,29,South Yorkshire,Yorkshire and The Humber,England
+Whiskered bat,3040002,20,Pembrokeshire,Wales,Wales
+Whiskered bat,1080003,18,Leicestershire,East Midlands,England
+Whiskered bat,1080002,15,Leicestershire,East Midlands,England
+Whiskered bat,5100821,14,Isle of Man,Isle of Man,British Crown Dependencies
+Whiskered bat,5101005,10,South Yorkshire,Yorkshire and The Humber,England
+Whiskered/Brandt's/Alcathoe bat,5100156,271,County Durham,North East,England
+Whiskered/Brandt's/Alcathoe bat,1040001,64,Somerset,South West,England
+Whiskered/Brandt's/Alcathoe bat,5100494,19,Carmarthenshire,Wales,Wales
+Whiskered/Brandt's/Alcathoe bat,3040001,2,Gwynedd,Wales,Wales
+Whiskered/Brandt's/Alcathoe bat,1040002,1,Redcar and Cleveland,North East,England
