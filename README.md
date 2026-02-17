@@ -29,7 +29,13 @@ crop_and_soil_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/crop_and_soil_tb
 
 bat_roost_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/bat_roost_tbl
 
+bat_roost_wide_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/bat_roost_wide_tbl
+
 mushroom_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/mushroom_tbl
+
+living_planet_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/living_planet_tbl
+
+living_planet_wide_tbl: https://github.com/m-gemmell/mgrtibbles/wiki/living_planet_wide_tbl
 
 __Note:__ Page for mammal_sleep_tbl says the brain_wt is in kg when it is in grams. 
 The values in the included tibble have been converted to kgs.
