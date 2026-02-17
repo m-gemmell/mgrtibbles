@@ -1,0 +1,15 @@
+#' Global Headcount: World Population Dataset by Country/Territory
+#' 
+#' @format A tibble with 234 rows and 13 variables:
+#' \describe{
+#'   \item{CCA3}{fct 3 Digit Country/Territories Code}
+#'   \item{Country/Territories}{fct Name of the Country/Territories} 
+#'   \item{Capital}{chr Name of the Capital}
+#'   \item{Continent}{fct Name of the Continent}
+#'   \item{2022-1970}{dbl Population of the Country/Territory in the denoted year}
+#'   \item{Area_km2}{dbl Area size of the Country/Territories in square kilometer}
+#'   \item{Year}{dbl Year}
+#'   \item{Population}{dbl Population of the Country/Territory}
+#' }
+#' @source \url{https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset}
+"world_pop_tbl"
